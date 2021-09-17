@@ -82,7 +82,7 @@
       "decimals": 18,
       "lpToken": true
     },
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "rewardToken": {
       "symbol": "JDI",
       "address": {
@@ -154,7 +154,7 @@
       },
       "decimals": 18
       },
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "rewardToken": {
       "symbol": "JDI",
       "address": {
@@ -503,7 +503,7 @@
     "sousId": 28,
     "name": "JDI -> JDI",
     "tokenName": "JDI",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "stakingTokenName": "JDI",
     "stakingToken": {
       "symbol": "JDI",
@@ -1980,7 +1980,7 @@
     "sousId": 72,
     "name": "BANANA --> GUARD",
     "tokenName": "GUARD",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.svg",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
