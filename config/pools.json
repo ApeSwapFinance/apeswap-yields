@@ -325,7 +325,7 @@
     "sousId": 22,
     "name": "BANANA -> ONT Reward Pool",
     "tokenName": "ONT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONT.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONT.svg",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
@@ -395,7 +395,7 @@
     "sousId": 25,
     "name": "GNANA -> BFT",
     "tokenName": "BFT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -431,7 +431,7 @@
     "sousId": 26,
     "name": "GNANA -> SAFEP",
     "tokenName": "SAFEP",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -540,7 +540,7 @@
     "sousId": 29,
     "name": "GNANA -> BINGUS",
     "tokenName": "BINGUS",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Bingus.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.svg",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -720,7 +720,7 @@
     "sousId": 34,
     "name": "BANANA -> BFT",
     "tokenName": "BFT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
