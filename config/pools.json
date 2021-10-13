@@ -3166,5 +3166,39 @@
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 18
+  },
+  {
+    "sousId": 108,
+    "tokenName": "EXP",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXP.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "EXP",
+      "address": {
+        "56": "0x639d4C62F58a4048AD0F69B8CE675dB1A3e8e00e"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 21043771043771041666,
+    "startBlock": 10976907,
+    "bonusEndBlock": 11840907,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xde182dad837db2117e2981b1f94dec2cec8191cc"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gamexchange.app/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
   }
 ]
