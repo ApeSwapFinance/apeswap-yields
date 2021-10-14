@@ -3612,7 +3612,7 @@
   {
     "sousId": 121,
     "tokenName": "THG",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/THG.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/THG.png",
     "stakingToken":{
       "symbol":"BANANA",
       "address":{
@@ -3646,7 +3646,7 @@
   {
     "sousId": 122,
     "tokenName": "WSG",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WSG.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WSG.png",
     "stakingToken":{
       "symbol":"BANANA",
       "address":{
