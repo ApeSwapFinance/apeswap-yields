@@ -29,7 +29,7 @@
     "poolCategory": "CORE",
     "projectLink": "https://apeswap.finance/",
     "harvest": true,
-    "sortOrder": 999,
+    "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 18
   },
