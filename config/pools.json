@@ -3676,5 +3676,211 @@
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 18
+  },
+  {
+    "sousId": 124,
+    "tokenName": "OTAKU",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OTAKU.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "OTAKU",
+      "address": {
+        "56": "0x484215873a674F9af73367a8F94c2C591e997521"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1316145833333333333,
+    "startBlock": 11802141,
+    "bonusEndBlock": 13962141,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcfae247209b2f3c175ddaca619a7874447e534cd"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://fomochronicles.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 125,
+    "tokenName": "TNNS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TNNS.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TNNS",
+      "address": {
+        "56": "0x6C7C87D9868b1dB5a0F62d867bAa90e0AdFA7Cfd"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 76967592592592592,
+    "startBlock": 11835020,
+    "bonusEndBlock": 17019020,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x8b82c8a380a4c7edd68a4df2d4b09a52b5704c3b"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.tnns.pro/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 126,
+    "tokenName": "KING",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "KING",
+      "address": {
+        "56": "0x0cCD575bf9378c06f6DCa82f8122F570769F00C2"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 128603009250000000,
+    "startBlock": 11863607,
+    "bonusEndBlock": 14455607,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x824b23f47da94055434242c1100dfa71cc691f83"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cryptobladeskingdoms.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 127,
+    "tokenName": "MBIRD",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MBIRD.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MBIRD",
+      "address": {
+        "56": "0x3b23a0FFbc53198d86fa5927E8ee32F7EF699A14"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 57870370370370370,
+    "startBlock": 11892261,
+    "bonusEndBlock": 14484261,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x0a935f40a288cb67ee86565a2b1113f5c7fe481d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.moonbird.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 123,
+    "tokenName": "CYT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg",
+    "stakingToken":{
+      "symbol":"OBIE",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xa18509D20Fd01B4990734Fd04ba53bAd02922787"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "CYT",
+      "address": {
+        "56": "0xd9025e25Bb6cF39f8c926A704039D2DD51088063"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 115740740740740740,
+    "startBlock": 11797959,
+    "bonusEndBlock": 13525959,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcd40fbe9eabc34faa59341c36c628e8867a22943"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://twitter.com/obie_Dobo/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "forAdmins": true
+  },
+  {
+    "sousId": 96,
+    "tokenName": "BANANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+    "stakingToken":{
+      "symbol":"OBIE",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xa18509D20Fd01B4990734Fd04ba53bAd02922787"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BANANA",
+      "address": {
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 5787037037037037,
+    "startBlock": 10684696,
+    "bonusEndBlock": 12412696,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xf1aFc0bfdf33BC74b9896612eAA38058cADfF8f0"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "forAdmins": true
   }
 ]
