@@ -3814,6 +3814,74 @@
     "tokenDecimals": 18
   },
   {
+    "sousId": 128,
+    "tokenName": "BBNANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBNANA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BBNANA",
+      "address": {
+        "56": "0xa3be3B30Fa5302daD5c9874cDB50E220eAadf092"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 28862847222222222222,
+    "startBlock": 12005363,
+    "bonusEndBlock": 17189363,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x0f1c37bea4984cf57e850929e839782e33790c8d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://babybanana.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 129,
+    "tokenName": "TOWER",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOWER.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TOWER",
+      "address": {
+        "56": "0xe7c9C6bc87B86f9E5b57072F907EE6460B593924"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1111585214120370370,
+    "startBlock": 12062259,
+    "bonusEndBlock": 17246259,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x07f874ad2b3546164a33f4b6c27494ac9c1d3323"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://www.crazydefenseheroes.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
     "sousId": 123,
     "tokenName": "CYT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg",
