@@ -4190,7 +4190,7 @@
   {
     "sousId": 139,
     "tokenName": "FXS",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -4222,7 +4222,7 @@
     "tokenDecimals": 18
   },
 
-  
+
   {
     "sousId": 123,
     "tokenName": "CYT",
