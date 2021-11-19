@@ -4341,6 +4341,46 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 140,
+    "chainId": 56,
+    "tokenName": "RELAY",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RELAY.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "RELAY",
+      "address": {
+        "56": "0xE338D4250A4d959F88Ff8789EaaE8c32700BD175"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 4498015873015873,
+    "startBlock": 12790620,
+    "bonusEndBlock": 16822620,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xd95bBDEDE9ECbC2410bd78a66ded971BF3E8ff47"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.relaychain.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
+
+
+
+
 
 
   {
