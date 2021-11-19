@@ -1,6 +1,7 @@
 [
   {
     "sousId": 0,
+    "chainId": 56,
     "name": "BANANA -> BANANA Reward Pool",
     "tokenName": "BANANA",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
@@ -29,12 +30,49 @@
     "poolCategory": "CORE",
     "projectLink": "https://apeswap.finance/",
     "harvest": true,
-    "sortOrder": 999,
+    "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 18
   },
   {
+    "sousId": 21,
+    "chainId": 56,
+    "name": "GNANA -> BANANA Reward Pool",
+    "tokenName": "BANANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BANANA",
+      "address": {
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": "150000000000000000",
+    "startBlock": 6770043,
+    "bonusEndBlock": 13203140,
+    "contractAddress": {
+        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
+        "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://apeswap.finance/apezone",
+    "harvest": true,
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "abi": "BEP20_REWARD_APE_ABI"
+  },
+  {
     "sousId": 1,
+    "chainId": 56,
     "name": "BANANA -> BNB Reward Pool",
     "tokenName": "BNB",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BNB.svg",
@@ -71,6 +109,7 @@
   },
   {
     "sousId": 12,
+    "chainId": 56,
     "name": "JDI/BNB LP -> JDI Reward Pool",
     "tokenName": "JDI",
     "stakingTokenName": "BNB-JDI",
@@ -82,7 +121,7 @@
       "decimals": 18,
       "lpToken": true
     },
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "rewardToken": {
       "symbol": "JDI",
       "address": {
@@ -108,6 +147,7 @@
   },
   {
     "sousId": 13,
+    "chainId": 56,
     "name": "BANANA -> FOXY Reward Pool",
     "tokenName": "FOXY",
     "stakingToken": {
@@ -144,6 +184,7 @@
   },
   {
     "sousId": 14,
+    "chainId": 56,
     "name": "BANANA -> JDI Reward Pool",
     "tokenName": "JDI",
     "stakingToken": {
@@ -154,7 +195,7 @@
       },
       "decimals": 18
       },
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "rewardToken": {
       "symbol": "JDI",
       "address": {
@@ -180,6 +221,7 @@
   },
   {
     "sousId": 16,
+    "chainId": 56,
     "name": "BANANA -> LYPTUS Reward Pool",
     "tokenName": "LYPTUS",
     "stakingToken": {
@@ -216,6 +258,7 @@
   },
   {
     "sousId": 17,
+    "chainId": 56,
     "name": "BANANA -> SWAMP Reward Pool",
     "tokenName": "SWAMP",
     "stakingToken": {
@@ -252,6 +295,7 @@
   },
   {
     "sousId": 19,
+    "chainId": 56,
     "name": "BANANA -> ALLOY Reward Pool",
     "tokenName": "ALLOY",
     "stakingToken": {
@@ -287,45 +331,11 @@
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
-    "sousId": 21,
-    "name": "GNANA -> BANANA Reward Pool",
-    "tokenName": "BANANA",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
-    "stakingToken":{
-      "symbol":"GNANA",
-      "address":{
-        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
-        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "BANANA",
-      "address": {
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": "150000000000000000",
-    "startBlock": 6770043,
-    "bonusEndBlock": 10571867,
-    "contractAddress": {
-        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-        "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://apeswap.finance/apezone",
-    "harvest": true,
-    "sortOrder": 3,
-    "isFinished": false,
-    "tokenDecimals": 18,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
     "sousId": 22,
+    "chainId": 56,
     "name": "BANANA -> ONT Reward Pool",
     "tokenName": "ONT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONT.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONT.svg",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
@@ -358,6 +368,7 @@
   },
   {
     "sousId": 23,
+    "chainId": 56,
     "name": "BANANA -> NFTL Reward Pool",
     "tokenName": "NFTL",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTL.jpg",
@@ -393,9 +404,10 @@
   },
   {
     "sousId": 25,
+    "chainId": 56,
     "name": "GNANA -> BFT",
     "tokenName": "BFT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -429,9 +441,10 @@
   },
   {
     "sousId": 26,
+    "chainId": 56,
     "name": "GNANA -> SAFEP",
     "tokenName": "SAFEP",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SAFEP.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -465,6 +478,7 @@
   },
   {
     "sousId": 27,
+    "chainId": 56,
     "name": "GNANA -> GEN",
     "tokenName": "GEN",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GEN.png",
@@ -501,9 +515,10 @@
   },
   {
     "sousId": 28,
+    "chainId": 56,
     "name": "JDI -> JDI",
     "tokenName": "JDI",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/JDI.png",
     "stakingTokenName": "JDI",
     "stakingToken": {
       "symbol": "JDI",
@@ -538,9 +553,10 @@
   },
   {
     "sousId": 29,
+    "chainId": 56,
     "name": "GNANA -> BINGUS",
     "tokenName": "BINGUS",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Bingus.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BINGUS.svg",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -574,6 +590,7 @@
   },
   {
     "sousId": 30,
+    "chainId": 56,
     "name": "BANANA -> bxBTC",
     "tokenName": "bxBTC",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/XBTC.svg",
@@ -610,6 +627,7 @@
   },
   {
     "sousId": 31,
+    "chainId": 56,
     "name": "GNANA -> vBSWAP",
     "tokenName": "vBSWAP",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VBSWAP.svg",
@@ -646,6 +664,7 @@
   },
   {
     "sousId": 32,
+    "chainId": 56,
     "name": "BANANA -> WATCH",
     "tokenName": "WATCH",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WATCH.png",
@@ -682,6 +701,7 @@
   },
   {
     "sousId": 33,
+    "chainId": 56,
     "name": "GNANA -> KEYFI",
     "tokenName": "KEYFI",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KEYFI.png",
@@ -718,9 +738,10 @@
   },
   {
     "sousId": 34,
+    "chainId": 56,
     "name": "BANANA -> BFT",
     "tokenName": "BFT",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFT.png",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
@@ -754,6 +775,7 @@
   },
   {
     "sousId": 35,
+    "chainId": 56,
     "name": "GNANA -> NRV",
     "tokenName": "NRV",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NRV.png",
@@ -790,6 +812,7 @@
   },
   {
     "sousId": 36,
+    "chainId": 56,
     "name": "GNANA -> MOONLIGHT",
     "tokenName": "MOONLIGHT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOONLIGHT.svg",
@@ -826,6 +849,7 @@
   },
   {
     "sousId": 38,
+    "chainId": 56,
     "name": "GNANA -> TAPE",
     "tokenName": "TAPE",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TAPE.svg",
@@ -862,6 +886,7 @@
   },
   {
     "sousId": 39,
+    "chainId": 56,
     "name": "GNANA -> SPACE",
     "tokenName": "SPACE",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPACE.svg",
@@ -898,6 +923,7 @@
   },
   {
     "sousId": 40,
+    "chainId": 56,
     "name": "GNANA -> pCWS",
     "tokenName": "pCWS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/pCWS.png",
@@ -934,6 +960,7 @@
   },
   {
     "sousId": 41,
+    "chainId": 56,
     "name": "GNANA -> TYPH",
     "tokenName": "TYPH",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TYPH.svg",
@@ -970,6 +997,7 @@
   },
   {
     "sousId": 42,
+    "chainId": 56,
     "name": "GNANA -> bMXX",
     "tokenName": "bMXX",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/bMXX.svg",
@@ -1006,6 +1034,7 @@
   },
   {
     "sousId": 44,
+    "chainId": 56,
     "name": "GNANA -> CRUSH",
     "tokenName": "CRUSH",
     "stakingToken":{
@@ -1042,6 +1071,7 @@
   },
   {
     "sousId": 45,
+    "chainId": 56,
     "name": "GNANA -> GRAND",
     "tokenName": "GRAND",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRAND.png",
@@ -1078,6 +1108,7 @@
   },
   {
     "sousId": 46,
+    "chainId": 56,
     "name": "GNANA -> GMR",
     "tokenName": "GMR",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/gmr.png",
@@ -1114,6 +1145,7 @@
   },
   {
     "sousId": 47,
+    "chainId": 56,
     "name": "BANANA -> WINGS",
     "tokenName": "WINGS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WINGS.svg",
@@ -1150,6 +1182,7 @@
   },
   {
     "sousId": 48,
+    "chainId": 56,
     "name": "GNANA --> HERO",
     "tokenName": "HERO",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HERO.svg",
@@ -1186,6 +1219,7 @@
   },
   {
     "sousId": 49,
+    "chainId": 56,
     "name": "BANANA --> FOXY",
     "tokenName": "FOXY",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOXY.png",
@@ -1222,6 +1256,7 @@
   },
   {
     "sousId": 50,
+    "chainId": 56,
     "name": "BANANA --> MBOX",
     "tokenName": "MBOX",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOBOX.svg",
@@ -1258,6 +1293,7 @@
   },
   {
     "sousId": 51,
+    "chainId": 56,
     "name": "BANANA --> WYVERN",
     "tokenName": "WYVERN",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WYVERN.png",
@@ -1294,6 +1330,7 @@
   },
   {
     "sousId": 52,
+    "chainId": 56,
     "name": "BANANA --> BOG",
     "tokenName": "BOG",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOG.svg",
@@ -1330,6 +1367,7 @@
   },
   {
     "sousId": 54,
+    "chainId": 56,
     "name": "GNANA --> HIFI",
     "tokenName": "HIFI",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HIFI.svg",
@@ -1366,6 +1404,7 @@
   },
   {
     "sousId": 55,
+    "chainId": 56,
     "name": "BANANA --> LORY",
     "tokenName": "LORY",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LORY.png",
@@ -1402,6 +1441,7 @@
   },
   {
     "sousId": 56,
+    "chainId": 56,
     "name": "BANANA --> SCAM",
     "tokenName": "SCAM",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SCAM.png",
@@ -1438,6 +1478,7 @@
   },
   {
     "sousId": 57,
+    "chainId": 56,
     "name": "BANANA --> FRUIT",
     "tokenName": "FRUIT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRUIT.svg",
@@ -1474,6 +1515,7 @@
   },
   {
     "sousId": 58,
+    "chainId": 56,
     "name": "GNANA --> SKILL",
     "tokenName": "SKILL",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SKILL.svg",
@@ -1510,6 +1552,7 @@
   },
   {
     "sousId": 59,
+    "chainId": 56,
     "name": "BANANA --> GNT",
     "tokenName": "GNT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg",
@@ -1546,6 +1589,7 @@
   },
   {
     "sousId": 60,
+    "chainId": 56,
     "name": "BANANA --> PACOCA",
     "tokenName": "PACOCA",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PACOCA.svg",
@@ -1582,6 +1626,7 @@
   },
   {
     "sousId": 61,
+    "chainId": 56,
     "name": "BANANA --> NEWB",
     "tokenName": "NEWB",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NEWB.png",
@@ -1618,6 +1663,7 @@
   },
   {
     "sousId": 62,
+    "chainId": 56,
     "name": "GNANA --> BISON",
     "tokenName": "BISON",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BISON.svg",
@@ -1654,6 +1700,7 @@
   },
   {
     "sousId": 63,
+    "chainId": 56,
     "name": "GNANA --> TWIN",
     "tokenName": "TWIN",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TWIN.svg",
@@ -1690,6 +1737,7 @@
   },
   {
     "sousId": 64,
+    "chainId": 56,
     "name": "GNANA --> NALIS",
     "tokenName": "NALIS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NALIS.svg",
@@ -1726,6 +1774,7 @@
   },
   {
     "sousId": 65,
+    "chainId": 56,
     "name": "GNANA --> STARS",
     "tokenName": "STARS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/STARS.svg",
@@ -1762,6 +1811,7 @@
   },
   {
     "sousId": 66,
+    "chainId": 56,
     "name": "BANANA --> SISTA",
     "tokenName": "SISTA",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SISTA.svg",
@@ -1798,6 +1848,7 @@
   },
   {
     "sousId": 67,
+    "chainId": 56,
     "name": "BANANA --> CAPS",
     "tokenName": "CAPS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CAPS.svg",
@@ -1834,6 +1885,7 @@
   },
   {
     "sousId": 68,
+    "chainId": 56,
     "name": "GNANA --> BIRB",
     "tokenName": "BIRB",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BIRB.svg",
@@ -1870,6 +1922,7 @@
   },
   {
     "sousId": 69,
+    "chainId": 56,
     "name": "GNANA --> DINOP",
     "tokenName": "DINOP",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DINOP.svg",
@@ -1906,6 +1959,7 @@
   },
   {
     "sousId": 70,
+    "chainId": 56,
     "name": "GNANA --> MARU",
     "tokenName": "MARU",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MARU.png",
@@ -1942,6 +1996,7 @@
   },
   {
     "sousId": 71,
+    "chainId": 56,
     "name": "GNANA --> PERA",
     "tokenName": "PERA",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PERA.png",
@@ -1978,9 +2033,10 @@
   },
   {
     "sousId": 72,
+    "chainId": 56,
     "name": "BANANA --> GUARD",
     "tokenName": "GUARD",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.png",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUARD.svg",
     "stakingToken": {
       "symbol": "BANANA",
       "address": {
@@ -2014,6 +2070,7 @@
   },
   {
     "sousId": 73,
+    "chainId": 56,
     "name": "GNANA --> LAND",
     "tokenName": "LAND",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAND.svg",
@@ -2050,6 +2107,7 @@
   },
   {
     "sousId": 74,
+    "chainId": 56,
     "name": "BANANA --> POTS",
     "tokenName": "POTS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POTS.svg",
@@ -2086,6 +2144,7 @@
   },
   {
     "sousId": 75,
+    "chainId": 56,
     "name": "GNANA --> SACT",
     "tokenName": "SACT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SACT.svg",
@@ -2122,6 +2181,7 @@
   },
   {
     "sousId": 76,
+    "chainId": 56,
     "name": "GNANA --> BHC",
     "tokenName": "BHC",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BHC.png",
@@ -2158,6 +2218,7 @@
   },
   {
     "sousId": 77,
+    "chainId": 56,
     "name": "GNANA --> CYT",
     "tokenName": "CYT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg",
@@ -2194,6 +2255,7 @@
   },
   {
     "sousId": 78,
+    "chainId": 56,
     "name": "GNANA --> HOTCROSS",
     "tokenName": "HOTCROSS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOTCROSS.svg",
@@ -2230,6 +2292,7 @@
   },
   {
     "sousId": 79,
+    "chainId": 56,
     "name": "GNANA --> LMT", 
     "tokenName": "LMT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMT.svg",
@@ -2266,6 +2329,7 @@
   },
   {
     "sousId": 80,
+    "chainId": 56,
     "name": "GNANA --> FOOT",
     "tokenName": "FOOT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FOOT.svg",
@@ -2302,6 +2366,7 @@
   },
   {
     "sousId": 81,
+    "chainId": 56,
     "name": "GNANA --> NABOX",
     "tokenName": "NABOX",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NABOX.svg",
@@ -2338,6 +2403,7 @@
   },
   {
     "sousId": 82,
+    "chainId": 56,
     "name": "GNANA --> BABI",
     "tokenName": "BABI",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BABI.svg",
@@ -2374,6 +2440,7 @@
   },
   {
     "sousId": 83,
+    "chainId": 56,
     "name": "GNANA --> REVV",
     "tokenName": "REVV",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/REVV.svg",
@@ -2410,6 +2477,7 @@
   },
   {
     "sousId": 84,
+    "chainId": 56,
     "name": "GNANA --> WIZARD",
     "tokenName": "WIZARD",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WIZARD.svg",
@@ -2446,6 +2514,7 @@
   },
   {
     "sousId": 85,
+    "chainId": 56,
     "name": "GNANA --> GNT",
     "tokenName": "GNT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GNT.svg",
@@ -2482,6 +2551,7 @@
   },
   {
     "sousId": 86,
+    "chainId": 56,
     "name": "BANANA --> CLA",
     "tokenName": "CLA",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CLA.svg",
@@ -2518,6 +2588,7 @@
   },
   {
     "sousId": 88,
+    "chainId": 56,
     "name": "GNANA --> ZIG",
     "tokenName": "ZIG",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZIG.png",
@@ -2554,6 +2625,7 @@
   },
   {
     "sousId": 89,
+    "chainId": 56,
     "name": "BANANA --> NVT",
     "tokenName": "NVT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NVT.svg",
@@ -2590,6 +2662,7 @@
   },
   {
     "sousId": 90,
+    "chainId": 56,
     "tokenName": "POLAR",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POLAR.png",
     "stakingToken":{
@@ -2624,6 +2697,7 @@
   },
   {
     "sousId": 91,
+    "chainId": 56,
     "tokenName": "GRO",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRO.svg",
     "stakingToken":{
@@ -2658,6 +2732,7 @@
   },
   {
     "sousId": 92,
+    "chainId": 56,
     "tokenName": "CRUDE",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CRUDE.svg",
     "stakingToken": {
@@ -2692,6 +2767,7 @@
   },
   {
     "sousId": 93,
+    "chainId": 56,
     "tokenName": "CEEK",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CEEK.png",
     "stakingToken":{
@@ -2726,6 +2802,7 @@
   },
   {
     "sousId": 94,
+    "chainId": 56,
     "tokenName": "KRW",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KRW.svg",
     "stakingToken": {
@@ -2760,6 +2837,7 @@
   },
   {
     "sousId": 95,
+    "chainId": 56,
     "tokenName": "PEAR",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PEAR.svg",
     "stakingToken": {
@@ -2795,6 +2873,7 @@
   },
   {
     "sousId": 97,
+    "chainId": 56,
     "tokenName": "YDR",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/YDR.svg",
     "stakingToken":{
@@ -2829,6 +2908,7 @@
   },
   {
     "sousId": 98,
+    "chainId": 56,
     "tokenName": "ONG",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONG.svg",
     "stakingToken": {
@@ -2863,6 +2943,7 @@
   },
   {
     "sousId": 99,
+    "chainId": 56,
     "tokenName": "COPYCAT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COPYCAT.svg",
     "stakingToken": {
@@ -2897,6 +2978,7 @@
   },
   {
     "sousId": 100,
+    "chainId": 56,
     "tokenName": "BFG",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BFG.svg",
     "stakingToken": {
@@ -2931,6 +3013,7 @@
   },
   {
     "sousId": 101,
+    "chainId": 56,
     "tokenName": "DEP",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEP.png",
     "stakingToken": {
@@ -2965,6 +3048,7 @@
   },
   {
     "sousId": 102,
+    "chainId": 56,
     "tokenName": "RSUN",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RSUN.svg",
     "stakingToken": {
@@ -2999,6 +3083,7 @@
   },
   {
     "sousId": 103,
+    "chainId": 56,
     "tokenName": "TXL",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TXL.svg",
     "stakingToken": {
@@ -3033,6 +3118,7 @@
   },
   {
     "sousId": 104,
+    "chainId": 56,
     "tokenName": "SFUND",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SFUND.svg",
     "stakingToken": {
@@ -3067,6 +3153,7 @@
   },
   {
     "sousId": 105,
+    "chainId": 56,
     "tokenName": "PHX",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PHX.svg",
     "stakingToken":{
@@ -3101,6 +3188,7 @@
   },
   {
     "sousId": 106,
+    "chainId": 56,
     "tokenName": "POTS",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/POTS.svg",
     "stakingToken":{
@@ -3135,6 +3223,7 @@
   },
   {
     "sousId": 107,
+    "chainId": 56,
     "tokenName": "FRMX",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRMx.svg",
     "stakingToken":{
@@ -3166,5 +3255,1164 @@
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 18
+  },
+  {
+    "sousId": 108,
+    "chainId": 56,
+    "tokenName": "EXP",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/EXP.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "EXP",
+      "address": {
+        "56": "0x639d4C62F58a4048AD0F69B8CE675dB1A3e8e00e"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 21043771043771041666,
+    "startBlock": 10976907,
+    "bonusEndBlock": 11840907,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xde182dad837db2117e2981b1f94dec2cec8191cc"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gamexchange.app/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 109,
+    "chainId": 56,
+    "tokenName": "CFi",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CFi.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "CFi",
+      "address": {
+        "56": "0x6a545f9c64d8f7b957d8d2e6410b52095a9e6c29"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 10416666666666666,
+    "startBlock": 11034355,
+    "bonusEndBlock": 11898355,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x502b015f0c4493e1e6414de471041347c58b0d97"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cyberfi.tech/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 110,
+    "chainId": 56,
+    "tokenName": "SX",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SX.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "SX",
+      "address": {
+        "56": "0x6F26E8A40c8DAAe8c4358Ce557C10226527CeBcE"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 263310185185185185,
+    "startBlock": 11063154,
+    "bonusEndBlock": 12791154,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc6215d86a4bb470667d54c316624a3c45504bc31"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://www.sx.technology/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 111,
+    "chainId": 56,
+    "tokenName": "ROCKI",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ROCKI.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ROCKI",
+      "address": {
+        "56": "0xA01000C52b234a92563BA61e5649b7C76E1ba0f3"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 83964583333333333,
+    "startBlock": 11206186,
+    "bonusEndBlock": 15526186,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x5d8b37C42c34CA1661dB227B5484726d89040702"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.rocki.app/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 112,
+    "chainId": 56,
+    "tokenName": "GUMMY",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GUMMY.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GUMMY",
+      "address": {
+        "56": "0x10D3e0C38c286a04aee44d9B01CaC916B56Ee05A"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1374421296296296000,
+    "startBlock": 11234750,
+    "bonusEndBlock": 16418750,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc8ff8674a03672c36d6b5e2cbbf8f7967b14aef6"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gummybull.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 113,
+    "chainId": 56,
+    "tokenName": "DCB",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DCB.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "DCB",
+      "address": {
+        "56": "0xEAc9873291dDAcA754EA5642114151f3035c67A2"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1924189814814814814,
+    "startBlock": 11349060,
+    "bonusEndBlock": 13941060,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x7b4459a0ce06f2ebb8b145add6620ae06ff225ed"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://decubate.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 114,
+    "chainId": 56,
+    "tokenName": "NFTY",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFTY.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "NFTY",
+      "address": {
+        "56": "0x5774B2fc3e91aF89f89141EacF76545e74265982"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 6944444444444444444,
+    "startBlock": 11371406,
+    "bonusEndBlock": 16555406,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x946a0e7b410cfc4e225a3e9f09a93259747b0903"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://nftynetwork.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 115,
+    "chainId": 56,
+    "tokenName": "AUR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AUR.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "AUR",
+      "address": {
+        "56": "0x1dEb45C74E0192D9272ADF54e9a7519C48C2bd81"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 9620949074074074074,
+    "startBlock": 11434630,
+    "bonusEndBlock": 14026630,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x96034cd42b0eaa1a6dae20e1a13824aede3ba1f0"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://aurumofficial.net/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 116,
+    "chainId": 56,
+    "tokenName": "SEFI",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SEFI.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "SEFI",
+      "address": {
+        "56": "0xcd95350c69F229E72e57A44e8C05C436E65E4bEb"
+      },
+      "decimals": 6
+    },
+    "rewardPerBlock": 885127,
+    "startBlock": 11491650,
+    "bonusEndBlock": 14083650,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x122365722070a9ca5d12040e511bb90f722b915c"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://secretswap.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 6
+  },
+  {
+    "sousId": 117,
+    "chainId": 56,
+    "tokenName": "Kala",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KALA.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "Kala",
+      "address": {
+        "56": "0x32299c93960bB583A43c2220Dc89152391A610c5"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 60892361111111111,
+    "startBlock": 11520441,
+    "bonusEndBlock": 13248441,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x3902e6220c8425dcfb86118413481c6a625b28ba"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://app.kalata.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 118,
+    "chainId": 56,
+    "tokenName": "IHC",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IHC.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "IHC",
+      "address": {
+        "56": "0x86a53fcd199212FEa44FA7e16EB1f28812be911D"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 23098493287037037037,
+    "startBlock": 11606737,
+    "bonusEndBlock": 13766737,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x155bd20237a70994364723e44416fd602b8d0991"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.ihcoin.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 119,
+    "chainId": 56,
+    "tokenName": "AIRT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/AIRT.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "AIRT",
+      "address": {
+        "56": "0x016CF83732f1468150D87dCC5BdF67730B3934D3"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1303447916666666666,
+    "startBlock": 11664057,
+    "bonusEndBlock": 13392057,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x3c765c830a082944f4b69052670d41cf5b513846"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.airnfts.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 120,
+    "chainId": 56,
+    "tokenName": "PROS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PROS.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "PROS",
+      "address": {
+        "56": "0xEd8c8Aa8299C10f067496BB66f8cC7Fb338A3405"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 24564130208333333,
+    "startBlock": 11688720,
+    "bonusEndBlock": 16008720,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x96d643e487e408c59c10b654976567aa2f1a16d3"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://prosper.so/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 121,
+    "chainId": 56,
+    "tokenName": "THG",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/THG.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "THG",
+      "address": {
+        "56": "0x9fD87aEfe02441B123c3c32466cD9dB4c578618f"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 25462962962962962,
+    "startBlock": 11720672,
+    "bonusEndBlock": 14312672,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcf44a7c1d8277b27c47195f0907a5b93e63d3dd0"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://thetanarena.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 122,
+    "chainId": 56,
+    "tokenName": "WSG",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WSG.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "WSG",
+      "address": {
+        "56": "0xA58950F05FeA2277d2608748412bf9F802eA4901"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 570041232638888888888888,
+    "startBlock": 11777612,
+    "bonusEndBlock": 15233612,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xde99115c3f8ee876b5520779665088f70f647a6d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://wsg.gg/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 124,
+    "chainId": 56,
+    "tokenName": "OTAKU",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OTAKU.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "OTAKU",
+      "address": {
+        "56": "0x484215873a674F9af73367a8F94c2C591e997521"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1316145833333333333,
+    "startBlock": 11802141,
+    "bonusEndBlock": 13962141,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcfae247209b2f3c175ddaca619a7874447e534cd"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://fomochronicles.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 125,
+    "chainId": 56,
+    "tokenName": "TNNS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TNNS.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TNNS",
+      "address": {
+        "56": "0x6C7C87D9868b1dB5a0F62d867bAa90e0AdFA7Cfd"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 76967592592592592,
+    "startBlock": 11835020,
+    "bonusEndBlock": 17019020,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x8b82c8a380a4c7edd68a4df2d4b09a52b5704c3b"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.tnns.pro/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 126,
+    "chainId": 56,
+    "tokenName": "KING",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KING.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "KING",
+      "address": {
+        "56": "0x0cCD575bf9378c06f6DCa82f8122F570769F00C2"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 128603009250000000,
+    "startBlock": 11863607,
+    "bonusEndBlock": 14455607,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x824b23f47da94055434242c1100dfa71cc691f83"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cryptobladeskingdoms.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 127,
+    "chainId": 56,
+    "tokenName": "MBIRD",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MBIRD.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MBIRD",
+      "address": {
+        "56": "0x3b23a0FFbc53198d86fa5927E8ee32F7EF699A14"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 57870370370370370,
+    "startBlock": 11892261,
+    "bonusEndBlock": 14484261,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x0a935f40a288cb67ee86565a2b1113f5c7fe481d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.moonbird.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 128,
+    "chainId": 56,
+    "tokenName": "BBNANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BBNANA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BBNANA",
+      "address": {
+        "56": "0xa3be3B30Fa5302daD5c9874cDB50E220eAadf092"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 28862847222222222222,
+    "startBlock": 12005363,
+    "bonusEndBlock": 17189363,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x0f1c37bea4984cf57e850929e839782e33790c8d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://babybanana.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 129,
+    "chainId": 56,
+    "tokenName": "TOWER",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOWER.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TOWER",
+      "address": {
+        "56": "0xe7c9C6bc87B86f9E5b57072F907EE6460B593924"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1111585214120370370,
+    "startBlock": 12062259,
+    "bonusEndBlock": 17246259,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x07f874ad2b3546164a33f4b6c27494ac9c1d3323"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://www.crazydefenseheroes.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 130,
+    "chainId": 56,
+    "tokenName": "OASIS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/OASIS.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "OASIS",
+      "address": {
+        "56": "0xb19289b436b2F7A92891ac391D8f52580d3087e4"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 16855902777777777,
+    "startBlock": 12148271,
+    "bonusEndBlock": 16468271,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x9B5919a87d727e17A1fa9116E4547A52A7f159ea"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://projectoasis.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 131,
+    "chainId": 56,
+    "tokenName": "TOON",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOON.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TOON",
+      "address": {
+        "56": "0xaeE433ADeBe0FBB88dAa47eF0C1A513CaA52EF02"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 165343750000000000,
+    "startBlock": 12204038,
+    "bonusEndBlock": 15660038,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x1e20b8629602a28065f1daacf6155456063de290"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://pontoon.fi/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 132,
+    "chainId": 56,
+    "tokenName": "WING",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WING.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "WING",
+      "address": {
+        "56": "0x3CB7378565718c64Ab86970802140Cc48eF1f969"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": 2113985,
+    "startBlock": 12338557,
+    "bonusEndBlock": 14930557,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x656e0f20509b3eb04dbccae5a0e6c2a08e615e20"
+    },
+    "poolCategory": "CORE",
+    "projectLink": "https://wing.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 9
+  },
+  {
+    "sousId": 133,
+    "chainId": 56,
+    "tokenName": "GAN",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GAN.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GAN",
+      "address": {
+        "56": "0x8F1408171EAe06AEC4549fD0a5808A42cee6DD84"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 9645061728395061728,
+    "startBlock": 12379428,
+    "bonusEndBlock": 17563428,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xea5b77b22bd939b8196587d2bb9d8b5e0e497b74"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://galacticarena.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 134,
+    "chainId": 56,
+    "tokenName": "BCPAY",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BCPAY.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BCPAY",
+      "address": {
+        "56": "0x21f1ce0FCf1E9E39F8e79B7762801E8096d9f6CD"
+      },
+      "decimals": 8
+    },
+    "rewardPerBlock": 48104745,
+    "startBlock": 12427975,
+    "bonusEndBlock": 17611975,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xb83D0cE7335CaF7c59e7B9727916C0e98b74cb49"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://bitcashpay.net/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 8
+  },
+  {
+    "sousId": 135,
+    "chainId": 56,
+    "tokenName": "iBFR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/iBFR.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "iBFR",
+      "address": {
+        "56": "0xa296aD1C47FE6bDC133f39555C1D1177BD51fBc5"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 342086298263888888,
+    "startBlock": 12485224,
+    "bonusEndBlock": 17669224,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x004D7f0661fF6e1420fE311Bca57C1D89C9751BA"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.buffer.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 136,
+    "chainId": 56,
+    "tokenName": "SATA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SATA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "SATA",
+      "address": {
+        "56": "0x6b1C8765C7EFf0b60706b0ae489EB9bb9667465A"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 115451388888888888,
+    "startBlock": 12514950,
+    "bonusEndBlock": 16834950,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x4AC61236F70bC24eDf6be97746672ab564641258"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://sata.technology/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 137,
+    "chainId": 56,
+    "tokenName": "LICO",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LICO.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LICO",
+      "address": {
+        "56": "0x4F3266a56589357B4f8082918b14B923693e57f0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 34722222222222222,
+    "startBlock": 12626034,
+    "bonusEndBlock": 16946034,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x7077d94ca36cdcce214a9073fe9e4a865332bfc2"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://liquidcollectibles.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 138,
+    "chainId": 56,
+    "tokenName": "LIME",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LIME.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LIME",
+      "address": {
+        "56": "0x7bC75e291E656E8658D66Be1cc8154A3769A35Dd"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 507986111111111111,
+    "startBlock": 12681526,
+    "bonusEndBlock": 16137526,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x2dC448eF0Af4cDc299D2085CBC439459243E14aE"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://imem.app/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 139,
+    "chainId": 56,
+    "tokenName": "FXS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FXS.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "FXS",
+      "address": {
+        "56": "0xe48A3d7d0Bc88d552f730B62c006bC925eadB9eE"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 5772569444444444,
+    "startBlock": 12708667,
+    "bonusEndBlock": 15300667,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x565478B15dDABCDAf8B42528a0bD6a1c04ce070b"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://frax.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
+
+  {
+    "sousId": 123,
+    "chainId": 56,
+    "tokenName": "CYT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CYT.svg",
+    "stakingToken":{
+      "symbol":"OBIE",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xa18509D20Fd01B4990734Fd04ba53bAd02922787"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "CYT",
+      "address": {
+        "56": "0xd9025e25Bb6cF39f8c926A704039D2DD51088063"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 115740740740740740,
+    "startBlock": 11797959,
+    "bonusEndBlock": 13525959,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcd40fbe9eabc34faa59341c36c628e8867a22943"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://twitter.com/obie_Dobo/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "forAdmins": true
+  },
+  {
+    "sousId": 96,
+    "chainId": 56,
+    "tokenName": "BANANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+    "stakingToken":{
+      "symbol":"OBIE",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xa18509D20Fd01B4990734Fd04ba53bAd02922787"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BANANA",
+      "address": {
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 5787037037037037,
+    "startBlock": 10684696,
+    "bonusEndBlock": 12412696,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xf1aFc0bfdf33BC74b9896612eAA38058cADfF8f0"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "forAdmins": true
   }
 ]
