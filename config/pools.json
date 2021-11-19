@@ -35,6 +35,42 @@
     "tokenDecimals": 18
   },
   {
+    "sousId": 21,
+    "chainId": 56,
+    "name": "GNANA -> BANANA Reward Pool",
+    "tokenName": "BANANA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BANANA",
+      "address": {
+        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": "150000000000000000",
+    "startBlock": 6770043,
+    "bonusEndBlock": 10571867,
+    "contractAddress": {
+        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
+        "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://apeswap.finance/apezone",
+    "harvest": true,
+    "sortOrder": 3,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "abi": "BEP20_REWARD_APE_ABI"
+  },
+  {
     "sousId": 1,
     "chainId": 56,
     "name": "BANANA -> BNB Reward Pool",
@@ -292,42 +328,6 @@
     "isFinished": true,
     "tokenDecimals": 18,
     "lpStaking": false,
-    "abi": "BEP20_REWARD_APE_ABI"
-  },
-  {
-    "sousId": 21,
-    "chainId": 56,
-    "name": "GNANA -> BANANA Reward Pool",
-    "tokenName": "BANANA",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BANANA.svg",
-    "stakingToken":{
-      "symbol":"GNANA",
-      "address":{
-        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
-        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
-      },
-      "decimals":18
-    },
-    "rewardToken": {
-      "symbol": "BANANA",
-      "address": {
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
-      },
-      "decimals": 18
-    },
-    "rewardPerBlock": "150000000000000000",
-    "startBlock": 6770043,
-    "bonusEndBlock": 10571867,
-    "contractAddress": {
-        "97": "0x3996F919980778cb0fc1982087cAc01089e33fe7",
-        "56": "0x8F97B2E6559084CFaBA140e2AB4Da9aAF23FE7F8"
-    },
-    "poolCategory": "APEZONE",
-    "projectLink": "https://apeswap.finance/apezone",
-    "harvest": true,
-    "sortOrder": 3,
-    "isFinished": false,
-    "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
