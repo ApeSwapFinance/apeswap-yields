@@ -65,7 +65,7 @@
     "poolCategory": "APEZONE",
     "projectLink": "https://apeswap.finance/apezone",
     "harvest": true,
-    "sortOrder": 3,
+    "sortOrder": 1,
     "isFinished": false,
     "tokenDecimals": 18,
     "abi": "BEP20_REWARD_APE_ABI"
