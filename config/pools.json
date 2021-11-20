@@ -4376,6 +4376,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 141,
+    "chainId": 56,
+    "tokenName": "QUIDD",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QUIDD.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "QUIDD",
+      "address": {
+        "56": "0x7961Ade0a767c0E5B67Dd1a1F78ba44F727642Ed"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 47315827546296296,
+    "startBlock": 12797405,
+    "bonusEndBlock": 17981405,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x7de443badcfcf49417864f70fe7734b8144082f1"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://market.onquidd.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
