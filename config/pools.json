@@ -4411,7 +4411,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
-
+  {
+    "sousId": 142,
+    "chainId": 56,
+    "tokenName": "MONI",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MONI.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MONI",
+      "address": {
+        "56": "0x9573c88aE3e37508f87649f87c4dd5373C9F31e0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 31041859567901234,
+    "startBlock": 12816793,
+    "bonusEndBlock": 18000793,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc69a306e50b8ee373155746a0b6d457af4035d4b"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://monstainfinite.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  }
 
 
 
