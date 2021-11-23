@@ -4481,7 +4481,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
-
+  {
+    "sousId": 144,
+    "chainId": 56,
+    "tokenName": "SHILL",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SHILL.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "SHILL",
+      "address": {
+        "56": "0xfb9C339b4BacE4Fe63ccc1dd9a3c3C531441D5fE"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 18827314814814814,
+    "startBlock": 12902325,
+    "bonusEndBlock": 17222325,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x5E4Aa216B9e748e83D02b1F0334A0B8EB5ee9c32"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://projectseed.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
