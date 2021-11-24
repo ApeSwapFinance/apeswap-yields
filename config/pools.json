@@ -4516,6 +4516,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 145,
+    "chainId": 56,
+    "tokenName": "LMN",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMN.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LMN",
+      "address": {
+        "56": "0x7251C7A2155d8FEDb42a1DC4333aDe589e4d6919"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 40985243055555555,
+    "startBlock": 12929840,
+    "bonusEndBlock": 16385840,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x387021bA95c80856Be8B061533c67b47b5c148a6"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://lemonn.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
