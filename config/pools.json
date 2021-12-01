@@ -4586,6 +4586,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 147,
+    "chainId": 56,
+    "tokenName": "HERA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HERA.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "HERA",
+      "address": {
+        "56": "0x49C7295ff86EaBf5bf58C6eBC858DB4805738c01"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 23090277777777777,
+    "startBlock": 13114581,
+    "bonusEndBlock": 14842581,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xB49baE5D0230A3D57C6CAFEab71a418CF62e4813"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://heroarena.app/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
