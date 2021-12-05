@@ -4656,6 +4656,76 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 149,
+    "chainId": 56,
+    "tokenName": "ARV",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ARV.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ARV",
+      "address": {
+        "56": "0x6679eB24F59dFe111864AEc72B443d1Da666B360"
+      },
+      "decimals": 8
+    },
+    "rewardPerBlock": 7400730015,
+    "startBlock": 13222383,
+    "bonusEndBlock": 15814383,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc00EAbba05a314E52653fAB3fdB4861C7B11535F"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://ariva.digital/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 8
+  },
+  {
+    "sousId": 150,
+    "chainId": 56,
+    "tokenName": "rASKO",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/rASKO.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "rASKO",
+      "address": {
+        "56": "0xd118f42eDbc839F7e1E85d5269A25288792c141B"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 4675632804232803902,
+    "startBlock": 13227144,
+    "bonusEndBlock": 19275144,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xC4527Fb81764E632509234cE78F5C91cc86C7162"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://asko.finance/rasko",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
