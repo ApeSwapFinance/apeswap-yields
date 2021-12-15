@@ -4796,6 +4796,77 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 153,
+    "chainId": 56,
+    "tokenName": "QA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/QA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "QA",
+      "address": {
+        "56": "0x4ef29F3B804C316bA8bA464A765C601Fc092a2e9"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1199604552469135802,
+    "startBlock": 13503159,
+    "bonusEndBlock": 18687159,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x008fd008A139187aD57DD7E030BE00252E3eD757"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://quantumassets.vg/ ",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 154,
+    "chainId": 56,
+    "tokenName": "LOA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LOA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LOA",
+      "address": {
+        "56": "0x94b69263FCA20119Ae817b6f783Fc0F13B02ad50"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 61574074074074074,
+    "startBlock": 13507845,
+    "bonusEndBlock": 18691845,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x45d94C84cd5d150F1D6037f35f4dcaA6e1369ae8"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.leagueofancients.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
 
 
 
