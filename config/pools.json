@@ -4901,6 +4901,41 @@
     "isFinished": false,
     "tokenDecimals": 11
   },
+  {
+    "sousId": 156,
+    "chainId": 56,
+    "tokenName": "KAI",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/KAI.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "KAI",
+      "address": {
+        "56": "0x39Ae8EEFB05138f418Bb27659c21632Dc1DDAb10"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 827401620370370370,
+    "startBlock": 13560471,
+    "bonusEndBlock": 18744471,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x3b15B487902Bb10Cba34c489Cb35AC342F73Cff2"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://kardiachain.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
