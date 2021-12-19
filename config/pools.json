@@ -5006,7 +5006,41 @@
     "isFinished": false,
     "tokenDecimals": 8
   },
-
+  {
+    "sousId": 159,
+    "chainId": 56,
+    "tokenName": "MYRA",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MYRA.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MYRA",
+      "address": {
+        "56": "0x6ef238E9E8CD2A96740897761C18894Fc086B9d0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 36078559027777777,
+    "startBlock": 13646767,
+    "bonusEndBlock": 18830767,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x18d9d84e6649fe0f3e60c338ff5a9e96d5f85702"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://mytheria.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
