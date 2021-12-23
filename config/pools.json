@@ -5045,14 +5045,14 @@
     "sousId": 160,
     "chainId": 56,
     "tokenName": "GODZ",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GODZ.svg",
-    "stakingToken": {
-      "symbol": "BANANA",
-      "address": {
-        "97": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
-        "56": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GODZ.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
       },
-      "decimals": 18
+      "decimals":18
     },
     "rewardToken": {
       "symbol": "GODZ",
@@ -5081,13 +5081,13 @@
     "chainId": 56,
     "tokenName": "MNFT",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MNFT.png",
-    "stakingToken": {
-      "symbol": "GNANA",
-      "address": {
-        "97": "0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
-        "56": "0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
       },
-      "decimals": 18
+      "decimals":18
     },
     "rewardToken": {
       "symbol": "MNFT",
@@ -5111,6 +5111,45 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 162,
+    "chainId": 56,
+    "tokenName": "GMR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GMR",
+      "address": {
+        "56": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 303652968036529680,
+    "startBlock": 13732333,
+    "bonusEndBlock": 24244333,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x8966eda482ca1559cfea937da58f217fd1f2a468"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gmr.center/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
+
+
+
 
   {
     "sousId": 123,
