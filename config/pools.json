@@ -5041,6 +5041,112 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 160,
+    "chainId": 56,
+    "tokenName": "GODZ",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GODZ.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GODZ",
+      "address": {
+        "56": "0xF0A8EcBCE8caADB7A07d1FcD0f87Ae1Bd688dF43"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 57725694444444444,
+    "startBlock": 13674858,
+    "bonusEndBlock": 17130858,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x8b91f9584dD43Ba4aEd7729b33aA1D459af1c5cc"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cryptogodz.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 161,
+    "chainId": 56,
+    "tokenName": "MNFT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MNFT.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MNFT",
+      "address": {
+        "56": "0x36953B5Ec00A13eDcEceB3aF258D034913D2A79D"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1929012343750000000,
+    "startBlock": 13703600,
+    "bonusEndBlock": 15431600,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xe4d4ffd1c58d21858f0a8cf915aa2b422740328d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://manufactory.gg",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 162,
+    "chainId": 56,
+    "tokenName": "GMR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GMR",
+      "address": {
+        "56": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 303652968036529680,
+    "startBlock": 13732333,
+    "bonusEndBlock": 24244333,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x8966eda482ca1559cfea937da58f217fd1f2a468"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gmr.center/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
 
 
 
