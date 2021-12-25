@@ -5146,6 +5146,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 163,
+    "chainId": 56,
+    "tokenName": "ONT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ONT.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ONT",
+      "address": {
+        "56": "0xFd7B3A77848f1C2D67E05E54d78d174a0C850335"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 27330864197530868,
+    "startBlock": 13793505,
+    "bonusEndBlock": 16385505,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xb28d423765c7c906a3e55af54cea716c97df1f8d"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://ont.io",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
