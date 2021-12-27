@@ -5216,6 +5216,41 @@
     "isFinished": false,
     "tokenDecimals": 9
   },
+  {
+    "sousId": 165,
+    "chainId": 56,
+    "tokenName": "NAUT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NAUT.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "NAUT",
+      "address": {
+        "56": "0x05B339B0A346bF01f851ddE47a5d485c34FE220c"
+      },
+      "decimals": 8
+    },
+    "rewardPerBlock": 1717361,
+    "startBlock": 13851006,
+    "bonusEndBlock": 17307006,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xcFA6CAEd7E2eCB4411254B1444E31dE43824b3E8"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://astronaut.to/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 8
+  },
 
 
 
