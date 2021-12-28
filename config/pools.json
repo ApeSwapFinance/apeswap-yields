@@ -5236,7 +5236,7 @@
       },
       "decimals": 8
     },
-    "rewardPerBlock": 1717361,
+    "rewardPerBlock": 1569357,
     "startBlock": 13851006,
     "bonusEndBlock": 17307006,
     "contractAddress": {
@@ -5250,6 +5250,41 @@
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 8
+  },
+  {
+    "sousId": 166,
+    "chainId": 56,
+    "tokenName": "ZIG",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ZIG.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ZIG",
+      "address": {
+        "56": "0x8C907e0a72C3d55627E853f4ec6a96b0C8771145"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 250769290123456790,
+    "startBlock": 13879730,
+    "bonusEndBlock": 19063730,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xEbd0Cd94DC2BE20575EcdC0370a7d9A2c1AeD40c"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://zignaly.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
   },
 
 
