@@ -5321,6 +5321,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 168,
+    "chainId": 56,
+    "tokenName": "MOONLIGHT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MOONLIGHT.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MOONLIGHT",
+      "address": {
+        "56": "0xB1CeD2e320E3f4C8e3511B1DC59203303493F382"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": 2601273148150000,
+    "startBlock": 13937300,
+    "bonusEndBlock": 19121300,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xaaF270fb5Ffa43ea2F49DE261E805D1efF06FDEE"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://moonlighttoken.com",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 9
+  },
 
 
 
