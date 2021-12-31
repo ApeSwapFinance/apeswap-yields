@@ -5356,6 +5356,41 @@
     "isFinished": false,
     "tokenDecimals": 9
   },
+  {
+    "sousId": 169,
+    "chainId": 56,
+    "tokenName": "LAND",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LAND.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LAND",
+      "address": {
+        "56": "0x9D986A3f147212327Dd658F712d5264a73a1fdB0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 3325810185185185,
+    "startBlock": 13966085,
+    "bonusEndBlock": 15694085,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x4CA13C1b85211aBC06455a164A15a2Ef6a1733E0"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://landshare.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
