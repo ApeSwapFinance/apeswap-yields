@@ -5391,6 +5391,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 170,
+    "chainId": 56,
+    "tokenName": "SPACE",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/SPACE.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "SPACE",
+      "address": {
+        "56": "0xe486a69E432Fdc29622bF00315f6b34C99b45e80"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 5246913580246913,
+    "startBlock": 13994833,
+    "bonusEndBlock": 16586833,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x31BA18dF9a445D2E01Aa55B393cde86b149CBC4A"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.aperocket.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
