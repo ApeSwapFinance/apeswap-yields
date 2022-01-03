@@ -5461,6 +5461,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 172,
+    "chainId": 56,
+    "tokenName": "LMT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LMT.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LMT",
+      "address": {
+        "56": "0x9617857E191354dbEA0b714d78Bc59e57C411087"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 395784143518518518,
+    "startBlock": 14052311,
+    "bonusEndBlock": 17508311,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x9f3Fa4d728F26C9bb53a0641C51A5657544E257A"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://lympo.io/lmt/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
