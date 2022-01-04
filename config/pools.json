@@ -5496,6 +5496,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 173,
+    "chainId": 56,
+    "tokenName": "GMR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GMR",
+      "address": {
+        "56": "0xADCa52302e0a6c2d5D68EDCdB4Ac75DeB5466884"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 290167824074074074,
+    "startBlock": 14081076,
+    "bonusEndBlock": 19265076,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x24CD8C40d0B47Fd0E12D03A0d56fFfD44dD31f3F"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gmr.center/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
