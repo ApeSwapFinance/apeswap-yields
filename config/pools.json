@@ -5500,7 +5500,7 @@
     "sousId": 173,
     "chainId": 56,
     "tokenName": "GMR",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR2.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GMR.svg",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
