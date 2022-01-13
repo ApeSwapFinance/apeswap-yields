@@ -3610,7 +3610,7 @@
     "sousId": 118,
     "chainId": 56,
     "tokenName": "IHC",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IHC.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/IHC.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
