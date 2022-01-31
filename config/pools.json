@@ -5671,6 +5671,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 178,
+    "chainId": 56,
+    "tokenName": "LUNR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LUNR.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LUNR",
+      "address": {
+        "56": "0x37807D4fbEB84124347B8899Dd99616090D3e304"
+      },
+      "decimals": 4
+    },
+    "rewardPerBlock": 549,
+    "startBlock": 14855155,
+    "bonusEndBlock": 20039155,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xFdE855148B160F203761569A9c0A8a1aA7d565B3"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://lunarcrush.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 4
+  },
 
 
 
