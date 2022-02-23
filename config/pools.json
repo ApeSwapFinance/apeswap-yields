@@ -5811,6 +5811,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 182,
+    "chainId": 56,
+    "tokenName": "BUZZ",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BUZZ.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BUZZ",
+      "address": {
+        "56": "0xa73C15620bfA79646E9A11d0D638d66588456462"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 1622533564814814814,
+    "startBlock": 15513944,
+    "bonusEndBlock": 17241944,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x6e4Ac7608ADA81F740090Df60b585bd12B30F77C"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cosmosium.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
