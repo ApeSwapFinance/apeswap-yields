@@ -5846,6 +5846,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 183,
+    "chainId": 56,
+    "tokenName": "RANKER",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RANKER.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "RANKER",
+      "address": {
+        "56": "0xdE4512Db1a7a7519818dA38DB86eC1363d70A711"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 667348765432098765,
+    "startBlock": 15657188,
+    "bonusEndBlock": 18249188,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc5a313375D986Ee70FA51a4890aEB8EeB8A5D33B"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://rankerdao.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
