@@ -5881,6 +5881,150 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 185,
+    "chainId": 56,
+    "tokenName": "WGICT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGICT.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "WGICT",
+      "address": {
+        "56": "0x27B2D695eF01d10EE96582a23db201B0Aa338639"
+      },
+      "decimals": 8
+    },
+    "rewardPerBlock": 1903009,
+    "startBlock": 15685946,
+    "bonusEndBlock": 16549946,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x5011c848cf4f6ff10085466de76257ac2adc1381"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gictrade.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 8
+  },
+  {
+    "sousId": 187,
+    "chainId": 56,
+    "tokenName": "HOTCROSS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HOTCROSS.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "HOTCROSS",
+      "address": {
+        "56": "0x4FA7163E153419E0E1064e418dd7A99314Ed27b6"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 222087191358024691,
+    "startBlock": 15690652,
+    "bonusEndBlock": 20874652,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x448B5c60baa2E7D85334706494845b71F07151EE"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://hotcross.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+
+
+ 
+ 
+  {
+    "sousId": 184,
+    "chainId": 56,
+    "tokenName": "WGICT-USDT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/WGICT.svg",
+    "stakingToken":{
+      "symbol":"WGICT-USDT",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x4c64C44A6ed5f1fDCe5263d9b512C2465FFe8256"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "WGICT",
+      "address": {
+        "56": "0x27B2D695eF01d10EE96582a23db201B0Aa338639"
+      },
+      "decimals": 8
+    },
+    "rewardPerBlock": 1437847,
+    "startBlock": 15685956,
+    "bonusEndBlock": 20869956,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xE4417357B022224736CA845856917aAaE912c0bD"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gictrade.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 8
+  },
+  {
+    "sousId": 186,
+    "chainId": 56,
+    "tokenName": "NFT11-BUSD",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/NFT11.svg",
+    "stakingToken":{
+      "symbol":"NFT11-BUSD",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xEf0A90fb728195F63C911f52ab4bde331089319f"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "NFT11",
+      "address": {
+        "56": "0x73F67AE7f934FF15beaBf55A28C2Da1eEb9B56Ec"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 59799768518518518,
+    "startBlock": 15685922,
+    "bonusEndBlock": 19141922,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x420B9baD20d43D561377615325E60d5B7CdB1B35"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://nft11.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
