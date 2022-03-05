@@ -5951,6 +5951,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 188,
+    "chainId": 56,
+    "tokenName": "FRONT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/FRONT.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "FRONT",
+      "address": {
+        "56": "0x928e55daB735aa8260AF3cEDadA18B5f70C72f1b"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 38387345679012345,
+    "startBlock": 15800709,
+    "bonusEndBlock": 20984709,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x1f875b9Be60b7bccac6555D5f9fc931Ae5Ff032B"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://frontier.xyz/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
  
