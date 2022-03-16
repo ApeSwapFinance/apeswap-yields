@@ -6060,7 +6060,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
-
+  {
+    "sousId": 189,
+    "chainId": 56,
+    "tokenName": "RUBY-BNB",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RUBY.svg",
+    "stakingToken":{
+      "symbol":"RUBY-BNB",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xEC9F5a5E4690fa14025971f0d2dD91F5600e24c7"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "RUBY",
+      "address": {
+        "56": "0xf7722aA0714096f1FB5ef83e6041CEBB4d58a08e"
+      },
+      "decimals": 12
+    },
+    "rewardPerBlock": 2864583333333,
+    "startBlock": 16122401,
+    "bonusEndBlock": 17850401,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xbc3f5571fc3338d0b9216a2c5c2e6f338531e3f8"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://www.rubyplaynet.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 12
+  },
 
 
   {
