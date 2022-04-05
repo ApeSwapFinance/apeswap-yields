@@ -6129,6 +6129,41 @@
     "isFinished": false,
     "tokenDecimals": 12
   },
+  {
+    "sousId": 191,
+    "chainId": 56,
+    "tokenName": "DRF-BUSD",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DRF.svg",
+    "stakingToken":{
+      "symbol":"DRF-BUSD",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x5FFc5b392Fcc33357c6a8240bda1C9374A55E6B8"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "DRF",
+      "address": {
+        "56": "0x89C1Af791d7B4cf046Dca8Fa10a41Dd2298A6a3F"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 68750000000000000,
+    "startBlock": 16669065,
+    "bonusEndBlock": 18397065,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc8519d981a99c9a56364895c6d37eea686d70540"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://derify.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
   {
