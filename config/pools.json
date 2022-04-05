@@ -5990,7 +5990,7 @@
     "sousId": 190,
     "chainId": 56,
     "tokenName": "ANML",
-    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.svg",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.png",
     "stakingToken":{
       "symbol":"GNANA",
       "address":{
@@ -6231,6 +6231,42 @@
     },
     "poolCategory": "APEZONE",
     "projectLink": "",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "forAdmins": true
+  },
+  {
+    "sousId": 192,
+    "chainId": 56,
+    "tokenName": "ANML",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANML.png",
+    "stakingToken":{
+      "symbol":"OBIE",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xa18509D20Fd01B4990734Fd04ba53bAd02922787"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ANML",
+      "address": {
+        "56": "0x06FDA0758c17416726f77Cb11305EAC94C074Ec0"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 96450617283950610,
+    "startBlock": 16704244,
+    "bonusEndBlock": 19296244,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x5a92DDA1338073065Ef142fD02e3Af2Ebfb07212"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://animalconcerts.com/",
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
