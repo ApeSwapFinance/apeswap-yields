@@ -6164,6 +6164,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 193,
+    "chainId": 56,
+    "tokenName": "BOUNTIE",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BOUNTIE.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BOUNTIE",
+      "address": {
+        "56": "0x00f80a8f39bb4D04a3038C497E3642bf1B0A304e"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 990789351851851851,
+    "startBlock": 16863972,
+    "bonusEndBlock": 24639972,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x59A4B153D080E3066236e57f6Bd66Ad241eb0269"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://bountiehunter.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
   {
