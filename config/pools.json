@@ -6056,6 +6056,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 194,
+    "chainId": 56,
+    "tokenName": "DEP",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/DEP.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "DEP",
+      "address": {
+        "56": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 526796875000000000,
+    "startBlock": 16921374,
+    "bonusEndBlock": 23833374,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x75768Ea1A1C3c84121063f7A281ee3081dB1D8Ef"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://dea.sg/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
  
  
