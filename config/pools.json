@@ -6091,6 +6091,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 195,
+    "chainId": 56,
+    "tokenName": "ANKR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ANKR.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ANKR",
+      "address": {
+        "56": "0xf307910A4c7bbc79691fD374889b36d8531B08e3"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 496031746031746031,
+    "startBlock": 17087971,
+    "bonusEndBlock": 18700771,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x57dDbdC52e402d7F2Fffef9FEEC82CBBCD361f87"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.ankr.com",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
  
  
