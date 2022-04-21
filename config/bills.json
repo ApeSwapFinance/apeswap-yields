@@ -1,0 +1,74 @@
+[
+    {
+        "index": 0,
+        "network": 56,
+        "billType": "BANANA Bill",
+        "contractAddress": "0x8b57Fc5BE65118188D50d42fcD5614e447F7FAbE",
+        "lpToken": {
+            "symbol": "BANANA-BNB",
+            "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "decimals": 18,
+            "mainToken": "BANANA",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "BANANA",
+            "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 1,
+        "network": 56,
+        "billType": "BANANA Bill",
+        "contractAddress": "0x4925AcdE0E885170801A74DEBcC8fbA91F3aE29b",
+        "lpToken": {
+            "symbol": "BUSD-BNB",
+            "address": "0x51e6D27FA57373d8d4C256231241053a70Cb1d93",
+            "decimals": 18,
+            "mainToken": "BNB",
+            "quoteToken": "BUSD"
+        },
+        "rewardToken": {
+            "symbol": "BANANA",
+            "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 2,
+        "network": 56,
+        "billType": "BANANA Bill",
+        "contractAddress": "0xca1612f66292398a5df0ecadd98bb81dc264349d",
+        "lpToken": {
+            "symbol": "BUSD-USDC",
+            "address": "0xC087C78AbaC4A0E900a327444193dBF9BA69058E",
+            "decimals": 18,
+            "mainToken": "USDC",
+            "quoteToken": "BUSD"
+        },
+        "rewardToken": {
+            "symbol": "BANANA",
+            "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 3,
+        "network": 56,
+        "billType": "BANANA Bill",
+        "contractAddress": "0xb2d516086BFc978950e40D2739c72125415441a8",
+        "lpToken": {
+            "symbol": "ETH-BNB",
+            "address": "0xA0C3Ef24414ED9C9B456740128d8E63D016A9e11",
+            "decimals": 18,
+            "mainToken": "BNB",
+            "quoteToken": "ETH"
+        },
+        "rewardToken": {
+            "symbol": "BANANA",
+            "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+            "decimals": 18
+        }
+    }
+]
