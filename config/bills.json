@@ -26,8 +26,8 @@
             "symbol": "BUSD-BNB",
             "address": "0x51e6D27FA57373d8d4C256231241053a70Cb1d93",
             "decimals": 18,
-            "mainToken": "BNB",
-            "quoteToken": "BUSD"
+            "mainToken": "BUSD",
+            "quoteToken": "BNB"
         },
         "rewardToken": {
             "symbol": "BANANA",
@@ -44,8 +44,8 @@
             "symbol": "BUSD-USDC",
             "address": "0xC087C78AbaC4A0E900a327444193dBF9BA69058E",
             "decimals": 18,
-            "mainToken": "USDC",
-            "quoteToken": "BUSD"
+            "mainToken": "BUSD",
+            "quoteToken": "USDC"
         },
         "rewardToken": {
             "symbol": "BANANA",
@@ -62,8 +62,8 @@
             "symbol": "ETH-BNB",
             "address": "0xA0C3Ef24414ED9C9B456740128d8E63D016A9e11",
             "decimals": 18,
-            "mainToken": "BNB",
-            "quoteToken": "ETH"
+            "mainToken": "ETH",
+            "quoteToken": "BNB"
         },
         "rewardToken": {
             "symbol": "BANANA",
