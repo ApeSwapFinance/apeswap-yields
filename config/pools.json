@@ -6161,6 +6161,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 197,
+    "chainId": 56,
+    "tokenName": "GQ",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GQ.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GQ",
+      "address": {
+        "56": "0xF700D4c708C2be1463E355F337603183D20E0808"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 689409722222222222,
+    "startBlock": 17207600,
+    "bonusEndBlock": 22391600,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xA6B0f91e3eda93Db4266416CC43Ea4E35149D0dF"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://outerringmmo.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
  
  
