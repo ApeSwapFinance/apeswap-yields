@@ -6196,6 +6196,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 198,
+    "chainId": 56,
+    "tokenName": "ASPO",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/ASPO.png",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "ASPO",
+      "address": {
+        "56": "0x1a9b49E9f075c37Fe5f86C916bac9DEb33556D7E"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 642746527777777777,
+    "startBlock": 17260026,
+    "bonusEndBlock": 18988026,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xf2f96bb2850Ea1125Cf5f2c930A4aC51abE37fd4"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://aspo.world/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+}
 
  
  
