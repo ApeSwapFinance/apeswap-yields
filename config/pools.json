@@ -6266,6 +6266,42 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 200,
+    "chainId": 56,
+    "tokenName": "CPO",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/CPO.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "CPO",
+      "address": {
+        "56": "0xea395DFaFEd39924988b475f2Ca7f4C72655203A"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 540142746913580246,
+    "startBlock": 17345796,
+    "bonusEndBlock": 22529796,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x0ADBa369180802282C921F18879Bc40305D92dA4"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://cryptopolisgame.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  
  
  
   {
@@ -6402,6 +6438,41 @@
     },
     "poolCategory": "JUNGLE",
     "projectLink": "https://derify.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 201,
+    "chainId": 56,
+    "tokenName": "COC-BNB",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/COC.svg",
+    "stakingToken":{
+      "symbol":"COC-BNB",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x5467dD00ca4d91010Ab2A3aEF8a0162DC218801A"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "COC",
+      "address": {
+        "56": "0xbDC3b3639f7AA19e623A4d603A3Fb7Ab20115A91"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 62715186089699100000000,
+    "startBlock": 17350589,
+    "bonusEndBlock": 19078589,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xf4195c4ddb10db3df27816bb70dc342d861a7561"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://www.coinofchampions.com/",
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
