@@ -6301,6 +6301,76 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 202,
+    "chainId": 56,
+    "tokenName": "Froyo",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/Froyo.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "Froyo",
+      "address": {
+        "56": "0xe369fec23380f9F14ffD07a1DC4b7c1a9fdD81c9"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 558215133101851851,
+    "startBlock": 17379043,
+    "bonusEndBlock": 24291043,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x59258b42648486C3A3DF24a526996f82F526a9a3"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://froyo.games/home",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 203,
+    "chainId": 56,
+    "tokenName": "PRIMATE",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PRIMATE.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "PRIMATE",
+      "address": {
+        "56": "0xA19863E302FD1B41276fCe5A48D9C511DBeEf34c"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 439506172839506172,
+    "startBlock": 17374208,
+    "bonusEndBlock": 22558208,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc5EA4c201F9D9E052e197811a7bbDd56680F8Fcd"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.benjibananas.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
