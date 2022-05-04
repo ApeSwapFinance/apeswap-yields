@@ -70,5 +70,23 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         }
+    },
+    {
+        "index": 4,
+        "network": 56,
+        "billType": "BANANA Bill",
+        "contractAddress": "0xBD9959320cbbC69b2eF7d07fb3f9870cceaeB44f",
+        "lpToken": {
+            "symbol": "BTC-BNB",
+            "address": "0x1e1afe9d9c5f290d8f6996ddb190bd111908a43d",
+            "decimals": 18,
+            "mainToken": "BTC",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "BANANA",
+            "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
+            "decimals": 18
+        }
     }
 ]
