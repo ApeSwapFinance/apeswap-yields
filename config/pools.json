@@ -6549,6 +6549,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 204,
+    "chainId": 56,
+    "tokenName": "LC",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LC2.png",
+    "stakingToken":{
+      "symbol":"APE-LP",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xc5a69133432eF17CD15C501CAa5f9cF28C22aA00"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LC",
+      "address": {
+        "56": "0x6012C3a742f92103d238F1c8306cF8fbcDEca8B3"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 2864583333333333333,
+    "startBlock": 17750370,
+    "bonusEndBlock": 19478370,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x1e7133e05d1b4bdab44cb5503fa4a801000c963a"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.luckychip.io/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
 
