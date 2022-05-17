@@ -6371,6 +6371,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 205,
+    "chainId": 56,
+    "tokenName": "GRVS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GRVS.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GRVS",
+      "address": {
+        "56": "0x190CEC0657a02E9eAB1C1DF5d59f9139131cf539"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 458237847222222222,
+    "startBlock": 17886660,
+    "bonusEndBlock": 19614660,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x1B40F1B7E871C0de135AF42E15015d16988310ee"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://gravis.finance/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
