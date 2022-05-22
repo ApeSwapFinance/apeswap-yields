@@ -6619,7 +6619,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
-
+  {
+    "sousId": 206,
+    "chainId": 56,
+    "tokenName": "LGX",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/LGX.svg",
+    "stakingToken":{
+      "symbol":"APE-LP",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x004F72D474eE262701205E3637B4367594eFb11D"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "LGX",
+      "address": {
+        "56": "0x9096B4309224d751FCB43d7eB178dcFFc122aD15"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 507454668209876543,
+    "startBlock": 18029815,
+    "bonusEndBlock": 23213815,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc81af2222ac6ec0f3ec08b875df25326b40e7a76"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://solo.to/legionnetwork",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
   {
