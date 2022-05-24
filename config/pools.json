@@ -6441,6 +6441,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 208,
+    "chainId": 56,
+    "tokenName": "VTG",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/VTG.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "VTG",
+      "address": {
+        "56": "0x8de5aA37a7C40A53062EAD382b8EEAD3B08a7A46"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 3858024691358024691,
+    "startBlock": 18082461,
+    "bonusEndBlock": 23266461,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x78A81CC8a83DDe46B352Ab7e478C1Ebe087CD5b6"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://olympicgamesjam.nwayplay.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
