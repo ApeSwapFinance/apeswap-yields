@@ -6476,6 +6476,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 209,
+    "chainId": 56,
+    "tokenName": "TLOS",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TLOS.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TLOS",
+      "address": {
+        "56": "0xb6C53431608E626AC81a9776ac3e999c5556717c"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 20447530864197530,
+    "startBlock": 18120671,
+    "bonusEndBlock": 23304671,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x03BC491529B6443b263398A366E4424f6F669224"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://www.telos.net/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
