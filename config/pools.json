@@ -6541,7 +6541,7 @@
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xE4417357B022224736CA845856917aAaE912c0bD"
     },
-    "poolCategory": "APEZONE",
+    "poolCategory": "JUNGLE",
     "projectLink": "https://gictrade.io/",
     "harvest": true,
     "sortOrder": 1,
@@ -6576,7 +6576,7 @@
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x420B9baD20d43D561377615325E60d5B7CdB1B35"
     },
-    "poolCategory": "APEZONE",
+    "poolCategory": "JUNGLE",
     "projectLink": "https://nft11.io/",
     "harvest": true,
     "sortOrder": 1,
@@ -6716,7 +6716,7 @@
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0x1e7133e05d1b4bdab44cb5503fa4a801000c963a"
     },
-    "poolCategory": "APEZONE",
+    "poolCategory": "JUNGLE",
     "projectLink": "https://www.luckychip.io/",
     "harvest": true,
     "sortOrder": 1,
@@ -6751,8 +6751,43 @@
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xc81af2222ac6ec0f3ec08b875df25326b40e7a76"
     },
-    "poolCategory": "APEZONE",
+    "poolCategory": "JUNGLE",
     "projectLink": "https://solo.to/legionnetwork",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 210,
+    "chainId": 56,
+    "tokenName": "BONES",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BONES.png",
+    "stakingToken":{
+      "symbol":"APE-LP",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xe0900Db57d81DE4E6a13e90eb836Fa91Be50515A"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BONES",
+      "address": {
+        "56": "0x08426874d46f90e5E527604fA5E3e30486770Eb3"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 224606095679012345,
+    "startBlock": 18206360,
+    "bonusEndBlock": 20798360,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x84291c0e6b19cc833afc491561aacfbdd6885d63"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://moonshots.farm/",
     "harvest": true,
     "sortOrder": 1,
     "reflect": false,
