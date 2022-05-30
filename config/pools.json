@@ -157,9 +157,9 @@
     "lpStaking": false,
     "chainId": 56,
     "name": "BANANA -> NAUT Reward Pool",
-    "startBlock": "",
-    "bonusEndBlock": "",
-    "rewardPerBlock": ""
+    "startBlock": 6744393,
+    "bonusEndBlock": 9336393,
+    "rewardPerBlock": 3858024
   },
   {
     "sousId": 28,
@@ -362,9 +362,9 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BFT -> BFT Reward Pool",
-    "startBlock": "",
-    "bonusEndBlock": "",
-    "rewardPerBlock": "",
+    "startBlock": 6834460,
+    "bonusEndBlock": 9426460,
+    "rewardPerBlock": 3858024691358025000,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
