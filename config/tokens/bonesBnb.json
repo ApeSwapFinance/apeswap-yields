@@ -1,0 +1,8 @@
+{
+  "symbol": "BONES-BNB",
+  "address": {
+    "56": "0xe0900Db57d81DE4E6a13e90eb836Fa91Be50515A"
+  },
+  "decimals": 18,
+  "lpToken": true
+}

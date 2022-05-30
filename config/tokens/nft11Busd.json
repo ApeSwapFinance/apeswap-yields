@@ -1,0 +1,8 @@
+{
+  "symbol": "NFT11-BUSD",
+  "address": {
+    "56": "0xEf0A90fb728195F63C911f52ab4bde331089319f"
+  },
+  "decimals": 18,
+  "lpToken": true
+}

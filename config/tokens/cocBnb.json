@@ -1,0 +1,8 @@
+{
+  "symbol": "COC-BNB",
+  "address": {
+    "56": "0x5467dD00ca4d91010Ab2A3aEF8a0162DC218801A"
+  },
+  "decimals": 18,
+  "lpToken": true
+}
