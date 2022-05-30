@@ -1,0 +1,8 @@
+{
+  "symbol": "BUSD-BNB",
+  "address": {
+    "56": "0x51e6D27FA57373d8d4C256231241053a70Cb1d93"
+  },
+  "decimals": 18,
+  "lpToken": true
+}

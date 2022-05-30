@@ -1,0 +1,10 @@
+{
+    "symbol": "BUSD-USDC",
+    "address": {
+    "56": "0xC087C78AbaC4A0E900a327444193dBF9BA69058E"
+  },
+    "decimals": 18,
+    "mainToken": "BUSD",
+    "quoteToken": "USDC",
+    "lpToken": true
+}

@@ -1,0 +1,8 @@
+{
+  "symbol": "WGICT-USDT",
+  "address": {
+    "56": "0x4c64c44a6ed5f1fdce5263d9b512c2465ffe8256"
+  },
+  "decimals": 18,
+  "lpToken": true
+}
