@@ -6794,6 +6794,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 211,
+    "chainId": 56,
+    "tokenName": "GENv3",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GENV3.svg",
+    "stakingToken":{
+      "symbol":"APE-LP",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xCfa1d8afFA4da8e6CaBE6fde66DDf4eDA89f0e42"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "GENv3",
+      "address": {
+        "56": "0x98a61CA1504b92Ae768eF20b85aa97030b7a1Edf"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 19097222222222222222222,
+    "startBlock": 18406747,
+    "bonusEndBlock": 20998747,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xc3a5dbb5121772628956b9ce709ec1dda6a94b4d"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://www.generic.money/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
   {
