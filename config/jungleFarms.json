@@ -411,5 +411,57 @@
     "lpStaking": true,
     "isEarnTokenLp": false,
     "network": 56
+  },
+  {
+    "jungleId": 7,
+    "tokenName": "GENv3-BNB",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GENV3.svg",
+    "stakingToken": {
+      "symbol": "GENv3-BNB",
+      "address": {
+        "97": "0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56": "0xCfa1d8afFA4da8e6CaBE6fde66DDf4eDA89f0e42"
+      },
+      "decimals": 18
+    },
+    "rewardToken": {
+      "symbol": "GENv3",
+      "address": {
+        "56": "0x98a61CA1504b92Ae768eF20b85aa97030b7a1Edf"
+      },
+      "decimals": 18
+    },
+    "lpTokens": {
+      "token": {
+        "symbol": "GENv3",
+        "address": {
+          "56": "0x98a61CA1504b92Ae768eF20b85aa97030b7a1Edf"
+        },
+        "decimals": 18
+      },
+      "quoteToken": {
+        "symbol": "BNB",
+        "address": {
+          "97": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+          "56": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+          "137": "0xa649325aa7c5093d12d6f98eb4378deae68ce23f"
+        },
+        "decimals": 18
+      }
+    },
+    "contractAddress": {
+      "97": "0xb1108939748A635C5ed982a17FF5C6E7D79ECF62",
+      "56": "0xc3a5dbb5121772628956b9ce709ec1dda6a94b4d"
+    },
+    "projectLink": "https://www.generic.money/",
+    "twitter": "https://twitter.com/thegenericcoin",
+    "harvest": true,
+    "tokenPerBlock": "19097.222222222222222222",
+    "sortOrder": 1,
+    "isFinished": false,
+    "tokenDecimals": 18,
+    "lpStaking": true,
+    "isEarnTokenLp": false,
+    "network": 56
   }
 ]
