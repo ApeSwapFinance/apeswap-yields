@@ -5693,7 +5693,6 @@
   },
   {
     "sousId": 211,
-    "chainId": 56,
     "tokenName": "GENv3",
     "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/GENV3.svg",
     "stakingToken": {
@@ -5701,7 +5700,8 @@
       "address": {
         "56": "0xCfa1d8afFA4da8e6CaBE6fde66DDf4eDA89f0e42"
       },
-      "decimals": 18
+      "decimals": 18,
+      "lpToken": true
     },
     "rewardToken": {
       "symbol": "GENv3",
@@ -5716,14 +5716,15 @@
     },
     "poolCategory": "JUNGLE",
     "projectLink": "https://www.generic.money/",
+    "twitter": "https://twitter.com/thegenericcoin",
     "harvest": true,
+    "tokenPerBlock": "19097.222222222222222222",
     "sortOrder": 1,
     "reflect": false,
     "isFinished": false,
     "tokenDecimals": 18,
-    "tokenPerBlock": "19097.222222222222222222",
-    "twitter": "https://twitter.com/thegenericcoin",
-    "name": "GENv3-BNB -> BNB",
+    "chainId": 56,
+    "name": "GENv3-BNB -> GENv3",
     "rewardPerBlock": 19097222222222222222222,
     "startBlock": 18406747,
     "bonusEndBlock": 20998747
