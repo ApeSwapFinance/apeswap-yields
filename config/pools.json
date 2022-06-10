@@ -78,7 +78,7 @@
     "name": "BANANA -> ALLOY Reward Pool",
     "startBlock": 6707400,
     "bonusEndBlock": 8435400,
-    "rewardPerBlock": "1467673032",
+    "rewardPerBlock": 1467673032,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -119,7 +119,7 @@
     "name": "GNANA -> BANANA Reward Pool",
     "startBlock": 6770043,
     "bonusEndBlock": 93917806,
-    "rewardPerBlock": "150000000000000000",
+    "rewardPerBlock": 150000000000000000,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -200,7 +200,7 @@
     "name": "JDI -> JDI Reward Pool",
     "startBlock": 6962657,
     "bonusEndBlock": 8690657,
-    "rewardPerBlock": "115740740740000000",
+    "rewardPerBlock": 115740740740000000,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -243,7 +243,7 @@
     "name": "BANANA -> JDI Reward Pool",
     "startBlock": 6401695,
     "bonusEndBlock": 9860695,
-    "rewardPerBlock": "115640358485111000",
+    "rewardPerBlock": 115640358485111000,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -284,7 +284,7 @@
     "name": "BANANA -> LYPTUS Reward Pool",
     "startBlock": 6427200,
     "bonusEndBlock": 8164258,
-    "rewardPerBlock": "34722222222222000",
+    "rewardPerBlock": 34722222222222000,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -322,7 +322,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA -> ONT Reward Pool",
-    "rewardPerBlock": "9645061728000000",
+    "rewardPerBlock": 9645061728000000,
     "startBlock": 6772125,
     "bonusEndBlock": 9364125,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -401,7 +401,7 @@
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "GNANA -> BINGUS",
-    "rewardPerBlock": "3592308202022",
+    "rewardPerBlock": 3592308202022,
     "startBlock": 7110269,
     "bonusEndBlock": 9702269,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -443,7 +443,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA -> WATCH",
-    "rewardPerBlock": "15432098765432098",
+    "rewardPerBlock": 15432098765432098,
     "startBlock": 7246473,
     "bonusEndBlock": 9838473,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -482,7 +482,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA -> KEYFI",
-    "rewardPerBlock": "25483796296296296",
+    "rewardPerBlock": 25483796296296296,
     "startBlock": 7305030,
     "bonusEndBlock": 8601030,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -524,7 +524,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA -> BFT",
-    "rewardPerBlock": "1929012345679012400",
+    "rewardPerBlock": 1929012345679012400,
     "startBlock": 7323325,
     "bonusEndBlock": 12507325,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -563,7 +563,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA -> NRV",
-    "rewardPerBlock": "64484126984126990",
+    "rewardPerBlock": 64484126984126990,
     "startBlock": 7433841,
     "bonusEndBlock": 9449841,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -602,7 +602,7 @@
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "GNANA -> MOONLIGHT",
-    "rewardPerBlock": "15098621485023728",
+    "rewardPerBlock": 15098621485023728,
     "startBlock": 7635704,
     "bonusEndBlock": 9363704,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -641,7 +641,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA -> SPACE",
-    "rewardPerBlock": "9902199074074074",
+    "rewardPerBlock": 9902199074074074,
     "startBlock": 7897297,
     "bonusEndBlock": 9625297,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -680,7 +680,7 @@
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "GNANA -> GMR",
-    "rewardPerBlock": "1257518026451967",
+    "rewardPerBlock": 1257518026451967,
     "startBlock": 8270381,
     "bonusEndBlock": 9998381,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -721,7 +721,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA -> WINGS",
-    "rewardPerBlock": "9156250000000000",
+    "rewardPerBlock": 9156250000000000,
     "startBlock": 8291632,
     "bonusEndBlock": 9155632,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -762,7 +762,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA --> MBOX",
-    "rewardPerBlock": "183043981481481500",
+    "rewardPerBlock": 183043981481481500,
     "startBlock": 8361077,
     "bonusEndBlock": 10089077,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -802,7 +802,7 @@
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "BANANA --> WYVERN",
-    "rewardPerBlock": "1352941671296",
+    "rewardPerBlock": 1352941671296,
     "startBlock": 8381901,
     "bonusEndBlock": 9245901,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -843,7 +843,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA --> BOG",
-    "rewardPerBlock": "57870370370370370",
+    "rewardPerBlock": 57870370370370370,
     "startBlock": 8466478,
     "bonusEndBlock": 9330478,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -884,7 +884,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA --> LORY",
-    "rewardPerBlock": "31348765432098765",
+    "rewardPerBlock": 31348765432098765,
     "startBlock": 8706755,
     "bonusEndBlock": 11298755,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -925,7 +925,7 @@
     "tokenDecimals": 10,
     "chainId": 56,
     "name": "BANANA --> SCAM",
-    "rewardPerBlock": "16666666666666",
+    "rewardPerBlock": 16666666666666,
     "startBlock": 8727620,
     "bonusEndBlock": 9591620,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -964,7 +964,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> SKILL",
-    "rewardPerBlock": "115740740740740740",
+    "rewardPerBlock": 115740740740740740,
     "startBlock": 8867286,
     "bonusEndBlock": 9731286,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1002,11 +1002,11 @@
     "sortOrder": 999,
     "reflect": false,
     "isFinished": true,
-    "bonusEndBlock": 8851420,
+    "bonusEndBlock": 9781195,
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "BANANA -> bxBTC",
-    "rewardPerBlock": "300625000",
+    "rewardPerBlock": 0,
     "startBlock": 7189195,
     "abi": "BEP20_REWARD_APE_ABI"
   },
@@ -1085,7 +1085,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> BISON",
-    "rewardPerBlock": "13778549382716049",
+    "rewardPerBlock": 13778549382716049,
     "startBlock": 8995748,
     "bonusEndBlock": 11587748,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1126,7 +1126,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA --> CAPS",
-    "rewardPerBlock": "1736111111111111111",
+    "rewardPerBlock": 1736111111111111111,
     "startBlock": 9329793,
     "bonusEndBlock": 10193793,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1165,7 +1165,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> BIRB",
-    "rewardPerBlock": "5787037037037037037",
+    "rewardPerBlock": 5787037037037037037,
     "startBlock": 9368186,
     "bonusEndBlock": 10232186,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1204,7 +1204,7 @@
     "tokenDecimals": 9,
     "chainId": 56,
     "name": "GNANA --> DINOP",
-    "rewardPerBlock": "1736111111",
+    "rewardPerBlock": 1736111111,
     "startBlock": 9539564,
     "bonusEndBlock": 11267564,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1246,7 +1246,7 @@
     "abi": "BEP20_REWARD_APE_ABI",
     "chainId": 56,
     "name": "BANANA --> GUARD",
-    "rewardPerBlock": "4050925925925925925",
+    "rewardPerBlock": 4050925925925925925,
     "startBlock": 9673258,
     "bonusEndBlock": 14857258
   },
@@ -1284,7 +1284,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> LAND",
-    "rewardPerBlock": "57870370370370370",
+    "rewardPerBlock": 57870370370370370,
     "startBlock": 9715055,
     "bonusEndBlock": 12307055,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1325,7 +1325,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "BANANA --> POTS",
-    "rewardPerBlock": "115740740740740740",
+    "rewardPerBlock": 115740740740740740,
     "startBlock": 9724558,
     "bonusEndBlock": 10588558,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1364,7 +1364,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> CYT",
-    "rewardPerBlock": "13503086419753086419",
+    "rewardPerBlock": 13503086419753086419,
     "startBlock": 9844178,
     "bonusEndBlock": 12436178,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1403,9 +1403,9 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> HOTCROSS",
-    "rewardPerBlock": "925925925925925925",
+    "rewardPerBlock": 549768518510000000,
     "startBlock": 10033233,
-    "bonusEndBlock": 10897233,
+    "bonusEndBlock": 13834833,
     "abi": "BEP20_REWARD_APE_ABI"
   },
   {
@@ -1442,7 +1442,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> BABI",
-    "rewardPerBlock": "1860119047619047619",
+    "rewardPerBlock": 1860119047619047619,
     "startBlock": 10153400,
     "bonusEndBlock": 10556600,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1481,7 +1481,7 @@
     "tokenDecimals": 18,
     "chainId": 56,
     "name": "GNANA --> REVV",
-    "rewardPerBlock": "597993827160493827",
+    "rewardPerBlock": 597993827160493827,
     "startBlock": 10186369,
     "bonusEndBlock": 12778369,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -1522,7 +1522,7 @@
     "tokenDecimals": 8,
     "chainId": 56,
     "name": "BANANA --> NVT",
-    "rewardPerBlock": "144675925",
+    "rewardPerBlock": 144675925,
     "startBlock": 10461955,
     "bonusEndBlock": 10893955,
     "abi": "BEP20_REWARD_APE_ABI"
@@ -2258,7 +2258,12 @@
     "sortOrder": 1,
     "reflect": false,
     "isFinished": true,
-    "tokenDecimals": 18
+    "tokenDecimals": 18,
+    "chainId": 56,
+    "name": "GNANA --> PROS",
+    "rewardPerBlock": 24564130208333333,
+    "startBlock": 11688720,
+    "bonusEndBlock": 16008720
   },
   {
     "sousId": 121,
@@ -3181,7 +3186,11 @@
     "sortOrder": 1,
     "reflect": false,
     "isFinished": true,
-    "tokenDecimals": 18
+    "tokenDecimals": 18,
+    "name": "BANANA -> LMN",
+    "rewardPerBlock": 40985243055555555,
+    "startBlock": 12929840,
+    "bonusEndBlock": 16385840
   },
   {
     "sousId": 147,
