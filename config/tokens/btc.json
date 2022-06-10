@@ -1,0 +1,9 @@
+{
+    "symbol": "BTC",
+    "address": {
+    "97": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
+    "56": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+    "137": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+  },
+    "decimals": 18
+}

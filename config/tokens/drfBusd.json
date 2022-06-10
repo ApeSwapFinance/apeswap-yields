@@ -1,0 +1,8 @@
+{
+  "symbol": "DRF-BUSD",
+  "address": {
+    "56": "0x5FFc5b392Fcc33357c6a8240bda1C9374A55E6B8"
+  },
+  "decimals": 18,
+  "lpToken": true
+}

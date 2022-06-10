@@ -1,0 +1,8 @@
+{
+  "symbol": "GENv3-BNB",
+  "address": {
+    "56": "0xCfa1d8afFA4da8e6CaBE6fde66DDf4eDA89f0e42"
+  },
+  "decimals": 18,
+  "lpToken": true
+}
