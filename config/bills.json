@@ -88,5 +88,113 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         }
+    },
+    {
+        "index": 5,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0x1c36913ca7c64365a54694cd91dde9c7cf5e44ec",
+        "lpToken": {
+            "symbol": "CEEK-BNB",
+            "address": "0x119d6ebe840966c9cf4ff6603e76208d30ba2179",
+            "decimals": 18,
+            "mainToken": "CEEK",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "CEEK",
+            "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 6,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0xd9e18fae215f10f4ce35a24fcbfe944fbfb96643",
+        "lpToken": {
+            "symbol": "NFTY-BNB",
+            "address": "0x884BE30e2c95b9cFed614aD2B5Edf40AF2A144ad",
+            "decimals": 18,
+            "mainToken": "NFTY",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "NFTY",
+            "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 7,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0xda0149da023cb204b3ffba33a88d9dd19393c6fc",
+        "lpToken": {
+            "symbol": "TLOS-BUSD",
+            "address": "0x4d90ddc0a30968c4c6b1ed0535b0264e75a3c5f3",
+            "decimals": 18,
+            "mainToken": "TLOS",
+            "quoteToken": "BUSD"
+        },
+        "rewardToken": {
+            "symbol": "TLOS",
+            "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 8,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0xaf3016100f67c66af15c973cb8da94962653a726",
+        "lpToken": {
+            "symbol": "STARS-BNB",
+            "address": "0xbc8a4cad743d87e8754fd5f704c62e378802cbff",
+            "decimals": 18,
+            "mainToken": "STARS",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "STARS",
+            "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 9,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0x6a5be77e3fc1c99ef4aae2846432d61fa78a564c",
+        "lpToken": {
+            "symbol": "HOTCROSS-BUSD",
+            "address": "0x3b9aa711d1d90a4f8639f66c227881729a3317f2",
+            "decimals": 18,
+            "mainToken": "HOTCROSS",
+            "quoteToken": "BUSD"
+        },
+        "rewardToken": {
+            "symbol": "HOTCROSS",
+            "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+            "decimals": 18
+        }
+    },
+    {
+        "index": 10,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0x6a5be77e3fc1c99ef4aae2846432d61fa78a564c",
+        "lpToken": {
+            "symbol": "HOTCROSS-BNB",
+            "address": "0x3b9aa711d1d90a4f8639f66c227881729a3317f2",
+            "decimals": 18,
+            "mainToken": "HOTCROSS",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "HOTCROSS",
+            "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
+            "decimals": 18
+        }
     }
 ]
