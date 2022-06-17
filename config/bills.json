@@ -183,7 +183,7 @@
         "index": 10,
         "network": 56,
         "billType": "Jungle Bill",
-        "contractAddress": "0x6a5be77e3fc1c99ef4aae2846432d61fa78a564c",
+        "contractAddress": "0xb5fd0ac23267da501fc6c59c6e12ae32831e72bb",
         "lpToken": {
             "symbol": "HOTCROSS-BNB",
             "address": "0x3b9aa711d1d90a4f8639f66c227881729a3317f2",
