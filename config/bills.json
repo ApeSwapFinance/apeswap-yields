@@ -196,5 +196,23 @@
             "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
             "decimals": 18
         }
+    },
+    {
+        "index": 11,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0x4a3adf34b1f8830fb8d673477d52fa5cb91a2531",
+        "lpToken": {
+            "symbol": "TLOS-BUSD",
+            "address": "0x4d90ddc0a30968c4c6b1ed0535b0264e75a3c5f3",
+            "decimals": 18,
+            "mainToken": "TLOS",
+            "quoteToken": "BUSD"
+        },
+        "rewardToken": {
+            "symbol": "TLOS",
+            "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
+            "decimals": 18
+        }
     }
 ]
