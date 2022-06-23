@@ -15,7 +15,8 @@
             "symbol": "BANANA",
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 1,
@@ -33,7 +34,8 @@
             "symbol": "BANANA",
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 2,
@@ -51,7 +53,8 @@
             "symbol": "BANANA",
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 3,
@@ -69,7 +72,8 @@
             "symbol": "BANANA",
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 4,
@@ -87,7 +91,8 @@
             "symbol": "BANANA",
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 5,
@@ -105,7 +110,8 @@
             "symbol": "CEEK",
             "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 6,
@@ -123,7 +129,8 @@
             "symbol": "NFTY",
             "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 7,
@@ -141,7 +148,8 @@
             "symbol": "TLOS",
             "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
             "decimals": 18
-        }
+        },
+        "inactive": true
     },
     {
         "index": 8,
@@ -159,7 +167,8 @@
             "symbol": "STARS",
             "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 9,
@@ -177,7 +186,8 @@
             "symbol": "HOTCROSS",
             "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 10,
@@ -195,7 +205,8 @@
             "symbol": "HOTCROSS",
             "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
             "decimals": 18
-        }
+        },
+        "inactive": false
     },
     {
         "index": 11,
@@ -213,6 +224,7 @@
             "symbol": "TLOS",
             "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
             "decimals": 18
-        }
+        },
+        "inactive": false
     }
 ]
