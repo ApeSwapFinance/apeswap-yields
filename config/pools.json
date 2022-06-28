@@ -6674,9 +6674,9 @@
       },
       "decimals": 18
     },
-    "rewardPerBlock": 62715186089699100000000,
+    "rewardPerBlock": 155241094000000000000000,
     "startBlock": 17350589,
-    "bonusEndBlock": 19078589,
+    "bonusEndBlock": 20806589,
     "contractAddress": {
       "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
       "56": "0xf4195c4ddb10db3df27816bb70dc342d861a7561"
