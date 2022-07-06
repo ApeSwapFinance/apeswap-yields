@@ -6511,6 +6511,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 212,
+    "chainId": 56,
+    "tokenName": "RADAR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/RADAR.png",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "RADAR",
+      "address": {
+        "56": "0x489580eB70a50515296eF31E8179fF3e77E24965"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 936383680555555555,
+    "startBlock": 19324628,
+    "bonusEndBlock": 24508628,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x6bE84367AC627617c3d4143fbBD288cC5e9fb7c3"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://dappradar.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
