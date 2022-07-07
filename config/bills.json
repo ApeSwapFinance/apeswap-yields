@@ -226,5 +226,24 @@
             "decimals": 18
         },
         "inactive": false
+    },
+    {
+        "index": 12,
+        "network": 56,
+        "billType": "Jungle Bill",
+        "contractAddress": "0x3f02ce456b9da36352439fbd1897c2233a77e46f",
+        "lpToken": {
+            "symbol": "RADAR-BNB",
+            "address": "0xe6fF591f818664865eCab584B1fe679DbB4904dB",
+            "decimals": 18,
+            "mainToken": "RADAR",
+            "quoteToken": "BNB"
+        },
+        "rewardToken": {
+            "symbol": "RADAR",
+            "address": "0x489580eB70a50515296eF31E8179fF3e77E24965",
+            "decimals": 18
+        },
+        "inactive": false
     }
 ]
