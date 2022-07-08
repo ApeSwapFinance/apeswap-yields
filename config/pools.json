@@ -6546,6 +6546,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 213,
+    "chainId": 56,
+    "tokenName": "H2ON",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/H2ON.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "H2ON",
+      "address": {
+        "56": "0xE0E81c29A68bFDd7c48072fD94e7c58F1f0146C1"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 14704861111111111,
+    "startBlock": 19343825,
+    "bonusEndBlock": 24527825,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x4ad206384a88d53a80f45407da12dd6af95c1db1"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://h2o-securities.com/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
  
  
