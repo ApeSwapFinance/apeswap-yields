@@ -6899,6 +6899,41 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 214,
+    "chainId": 56,
+    "tokenName": "PXP",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/PXP.png",
+    "stakingToken":{
+      "symbol":"APE-LP",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xF4a7480948F11A0205D616258DCf43E9DaAE0586"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "PXP",
+      "address": {
+        "56": "0x93c27727e72EC7510a06ea450366C1418c4Ce547"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 15659722222222222222,
+    "startBlock": 19578755,
+    "bonusEndBlock": 22170755,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xBE36303aeCc8F1A71fa1076349117BE2fb94f7cD"
+    },
+    "poolCategory": "JUNGLE",
+    "projectLink": "https://piratexpirate.io/ ",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
 
 
   {
