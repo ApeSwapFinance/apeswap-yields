@@ -16,7 +16,9 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://apeswap.finance/",
+        "twitter": "https://twitter.com/ape_swap"
     },
     {
         "index": 1,
@@ -35,7 +37,9 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://apeswap.finance/",
+        "twitter": "https://twitter.com/ape_swap"
     },
     {
         "index": 2,
@@ -54,7 +58,9 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://apeswap.finance/",
+        "twitter": "https://twitter.com/ape_swap"
     },
     {
         "index": 3,
@@ -73,7 +79,9 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://apeswap.finance/",
+        "twitter": "https://twitter.com/ape_swap"
     },
     {
         "index": 4,
@@ -92,7 +100,9 @@
             "address": "0x603c7f932ed1fc6575303d8fb018fdcbb0f39a95",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://apeswap.finance/",
+        "twitter": "https://twitter.com/ape_swap"
     },
     {
         "index": 5,
@@ -111,7 +121,9 @@
             "address": "0xe0f94ac5462997d2bc57287ac3a3ae4c31345d66",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://ceek.com/",
+        "twitter": "https://twitter.com/CEEK/"
     },
     {
         "index": 6,
@@ -130,7 +142,9 @@
             "address": "0x5774b2fc3e91af89f89141eacf76545e74265982",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://nftynetwork.io/",
+        "twitter": "https://twitter.com/NFTYLab"
     },
     {
         "index": 7,
@@ -149,7 +163,9 @@
             "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
             "decimals": 18
         },
-        "inactive": true
+        "inactive": true,
+        "projectLink": "https://www.telos.net/",
+        "twitter": "https://twitter.com/HelloTelos"
     },
     {
         "index": 8,
@@ -168,7 +184,9 @@
             "address": "0xbd83010eb60f12112908774998f65761cf9f6f9a",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://www.mogulproductions.com/",
+        "twitter": "https://twitter.com/mogulofficial_"
     },
     {
         "index": 9,
@@ -187,7 +205,9 @@
             "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://hotcross.com/",
+        "twitter": "https://twitter.com/hotcrosscom"
     },
     {
         "index": 10,
@@ -206,7 +226,9 @@
             "address": "0x4fa7163e153419e0e1064e418dd7a99314ed27b6",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://hotcross.com/",
+        "twitter": "https://twitter.com/hotcrosscom"
     },
     {
         "index": 11,
@@ -225,7 +247,9 @@
             "address": "0xb6C53431608E626AC81a9776ac3e999c5556717c",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://www.telos.net/",
+        "twitter": "https://twitter.com/HelloTelos"
     },
     {
         "index": 12,
@@ -244,6 +268,8 @@
             "address": "0x489580eB70a50515296eF31E8179fF3e77E24965",
             "decimals": 18
         },
-        "inactive": false
+        "inactive": false,
+        "projectLink": "https://dappradar.com/",
+        "twitter": "https://twitter.com/DappRadar/"
     }
 ]
