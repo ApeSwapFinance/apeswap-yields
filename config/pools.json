@@ -6581,6 +6581,77 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 215,
+    "chainId": 56,
+    "tokenName": "HEC",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/HEC.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "HEC",
+      "address": {
+        "56": "0x638EEBe886B0e9e7C6929E69490064a6C94d204d"
+      },
+      "decimals": 9
+    },
+    "rewardPerBlock": 1345486,
+    "startBlock": 19980558,
+    "bonusEndBlock": 21708558,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x973975F0f5A265902e19088B7B106c9a688DE697"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://hector.network/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 9
+  },
+  {
+    "sousId": 216,
+    "chainId": 56,
+    "tokenName": "TOR",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/TOR.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "TOR",
+      "address": {
+        "56": "0x1d6Cbdc6b29C6afBae65444a1f65bA9252b8CA83"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 19097222222222222,
+    "startBlock": 19980558,
+    "bonusEndBlock": 25164558,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x09A536D113e7B298598c7902F6435F9b50b20D6C"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://hector.network/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  
   
  
  
