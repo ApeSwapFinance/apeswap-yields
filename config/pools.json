@@ -6651,6 +6651,76 @@
     "isFinished": false,
     "tokenDecimals": 18
   },
+  {
+    "sousId": 217,
+    "chainId": 56,
+    "tokenName": "MHUNT",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/MHUNT.svg",
+    "stakingToken":{
+      "symbol":"GNANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0xdDb3Bd8645775F59496c821E4F55A7eA6A6dc299"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "MHUNT",
+      "address": {
+        "56": "0x2C717059b366714d267039aF8F59125CAdce6D8c"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 381944444444444444,
+    "startBlock": 20186558,
+    "bonusEndBlock": 25370558,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0x627AE8d0c943B19e80B3338b45a9E4Ff81Cb8A7E"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "https://metashooter.gg/",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
+  {
+    "sousId": 218,
+    "chainId": 56,
+    "tokenName": "BLID",
+    "image": "https://raw.githubusercontent.com/ApeSwapFinance/apeswap-token-lists/main/assets/BLID.svg",
+    "stakingToken":{
+      "symbol":"BANANA",
+      "address":{
+        "97":"0x4fb99590ca95fc3255d9fa66a1ca46c43c34b09a",
+        "56":"0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95"
+      },
+      "decimals":18
+    },
+    "rewardToken": {
+      "symbol": "BLID",
+      "address": {
+        "56": "0x766AFcf83Fd5eaf884B3d529b432CA27A6d84617"
+      },
+      "decimals": 18
+    },
+    "rewardPerBlock": 380760416666666666,
+    "startBlock": 20287224,
+    "bonusEndBlock": 22015224,
+    "contractAddress": {
+      "97": "0x6c6248ea3ff05200b9df0bc91cec2dea4f57a95d",
+      "56": "0xf041F30449B414D47534E1acFfF6bE68f59CddAB"
+    },
+    "poolCategory": "APEZONE",
+    "projectLink": "",
+    "harvest": true,
+    "sortOrder": 1,
+    "reflect": false,
+    "isFinished": false,
+    "tokenDecimals": 18
+  },
   
   
  
